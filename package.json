@@ -1,0 +1,36 @@
+{
+  "name": "@grasseum/grasseum",
+  "version": "1.0.0",
+  "description": "stream build framework",
+  "main": "library/grasseum.js",
+  "directories": {
+    "test": "test"
+  },
+  "bin": {
+    "grasseum": "./bin/grasseum"
+  },
+  "dependencies": {
+    "grass_composer": "^1.0.0",
+    "grass_concat": "^1.0.0",
+    "grasseum_core": "^1.0.0",
+
+    "pasteur": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grasseum/grasseum.git"
+  },
+  "keywords": [
+    "stream","automation"
+  ],
+  "author": "Pein Freccs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grasseum/grasseum/issues"
+  },
+  "homepage": "https://github.com/grasseum/grasseum#readme"
+}
