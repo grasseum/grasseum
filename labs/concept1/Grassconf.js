@@ -27,7 +27,7 @@
         var local_filename = __dirname+"/";
        // test.pipe("grass_minify",local_filename+"test.min.js",2)
        test.pipe("grass_composer",{
-         "ggg":"&&&3&&&"
+         "data":{"ggg":"&&&3&&&"}
        })
         test.pipe("grass_concat",local_filename+"test2.min.js",2)
         //grss_concat
