@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-var nopte_directory = require('nopte_directory');
+
 var logg = require("./logging");
 var pathss = require('path');
  
