@@ -1,6 +1,6 @@
 {
   "name": "grasseum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stream build framework",
   "main": "library/grasseum.js",
   "directories": {
@@ -10,11 +10,11 @@
     "grasseum": "./bin/grasseum"
   },
   "dependencies": {
-    "grass_composer": "^1.0.0",
-    "grass_concat": "^1.0.0",
-    "grasseum_core": "^1.0.0",
-    "grasseum_directory": "^1.0.0",
-    "compt": "^1.0.0"
+    "grass_composer": "^1.0.2",
+    "grass_concat": "^1.0.1",
+    "grasseum_core": "^1.0.2",
+    "grasseum_directory": "^1.0.2",
+    "compt": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
