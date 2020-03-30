@@ -13,6 +13,7 @@
     "grass_composer": "^1.0.2",
     "grass_concat": "^1.0.1",
     "grasseum_core": "^1.0.2",
+    "grasseum_stream": "^1.0.0",
     "grasseum_directory": "^1.0.2",
     "compt": "^1.0.1"
   },
