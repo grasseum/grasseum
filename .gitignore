@@ -1,2 +1,5 @@
 node_modules/
+library_backup/
+node_modules_backup/
+node_modules_backup2/
 package_sample.json

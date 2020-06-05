@@ -1,11 +1,11 @@
-
-var bootloader = require("./core/bootloader");
-
-
-var boot = new bootloader();
-boot.init()
+ const cli = require("grasseum_cli");
 
 
-module.exports = {}
+const localCWD =process.cwd();
+const localARGV =process.argv.splice(2); 
 
-//console.log(reqq,"reqq");
+
+cli({
+    "cwd":localCWD,
+    "argv":localARGV
+});
