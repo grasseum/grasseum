@@ -44,7 +44,6 @@ This can found at folder `labs/concept1`
 
 ## Available command you can use at your terminal
 |Command type | Description|
-|:---: | :---: |
 |script | Running stream at `grassfile.js`  |
 |:---: | :---: |
 |http | Running http at `grasshttp.js` |
