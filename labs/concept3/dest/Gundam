@@ -1,0 +1,1635 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Gundam - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"de7a0b17-07a5-4c97-85c1-783e0e6c3e64","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Gundam","wgTitle":"Gundam","wgCurRevisionId":958516607,"wgRevisionId":958516607,"wgArticleId":50709,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: archived copy as title","CS1 uses Japanese-language script (ja)","CS1 Japanese-language sources (ja)","Articles with short description","Articles containing Japanese-language text","Commons category link from Wikidata","Articles with Curlie links","Articles with Japanese-language sources (ja)","Gundam"
+,"Asteroid mining in fiction","Bandai brands","Bandai Namco franchises","Bandai Visual","Fictional universes","Mass media franchises","Military in anime and manga","Military in fiction","Military science fiction","Sunrise (company)","Space opera anime and manga"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Gundam","wgRelevantArticleId":50709,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q732120","wgCentralAuthMobileDomain":
+!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.37"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/9/99/Gundam.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gundam&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gundam&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gundam"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Gundam rootpage-Gundam skin-vector action-view skin-vector-legacy">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+		<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en"><i>Gundam</i></h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the anime series. For the mecha themselves, see <a href="/wiki/Gundam_(fictional_robot)" title="Gundam (fictional robot)">Gundam (fictional robot)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Science fiction media franchise created by Yoshiyuki Tomino a,nd Sunrise</div>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background: lavender;">Gundam</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Gundam.jpg" class="image"><img alt="Gundam.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Gundam.jpg/250px-Gundam.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/en/9/99/Gundam.jpg 1.5x" data-file-width="300" data-file-height="225" /></a><div style="font-size:95%;padding:0.35em 0.35em 0.25em;line-height:1.25em;"><a href="/wiki/Gundam_(fictional_robot)" title="Gundam (fictional robot)">RX-78-2 Gundam</a> by <a href="/wiki/Hajime_Katoki" title="Hajime Katoki">Hajime Katoki</a></div></td></tr><tr><th scope="row">Created by</th><td><a href="/wiki/Hajime_Yatate" title="Hajime Yatate">Hajime Yatate</a><br /><a href="/wiki/Yoshiyuki_Tomino" title="Yoshiyuki Tomino">Yoshiyuki Tomino</a></td></tr><tr><th scope="row">Original work</th><td><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></i></td></tr><tr><th scope="row">Owned by</th><td><a href="/wiki/Bandai_Namco_Holdings" title="Bandai Namco Holdings">Bandai Namco Holdings</a><br />∟ <a href="/wiki/Sotsu" title="Sotsu">Sotsu</a><br />∟ <a href="/wiki/Sunrise_(company)" title="Sunrise (company)">Sunrise</a></td></tr><tr><th colspan="2" style="text-align:center;background: lavender;">Print publications</th></tr><tr><th scope="row">Novel(s)</th><td><a href="/wiki/List_of_Gundam_manga_and_novels" title="List of Gundam manga and novels">See list</a></td></tr><tr><th scope="row">Comics</th><td><a href="/wiki/List_of_Gundam_manga_and_novels" title="List of Gundam manga and novels">See list</a></td></tr><tr><th colspan="2" style="text-align:center;background: lavender;">Films and television</th></tr><tr><th scope="row">Film(s)</th><td><a href="#TV_series,_films,_and_video">See below</a></td></tr><tr><th scope="row">Television series</th><td><a href="#TV_series,_films,_and_video">See below</a></td></tr><tr><th colspan="2" style="text-align:center;background: lavender;">Games</th></tr><tr><th scope="row">Traditional</th><td><i><a href="/wiki/Gundam_War_Collectible_Card_Game" title="Gundam War Collectible Card Game">Gundam War Collectible Card Game</a></i></td></tr><tr><th scope="row">Video game(s)</th><td><a href="/wiki/List_of_Gundam_video_games" title="List of Gundam video games">See list</a></td></tr><tr><th colspan="2" style="text-align:center;background: lavender;">Miscellaneous</th></tr><tr><th scope="row">Toy(s)</th><td>Gunpla (plastic <a href="/wiki/Gundam_models" class="mw-redirect" title="Gundam models">Gundam models</a>)<br />The Robot Spirits<br />S. H. Figuarts</td></tr><tr><th scope="row">Genre</th><td><a href="/wiki/Science_fiction" title="Science fiction">Science fiction</a><br /><a href="/wiki/Military_science_fiction" title="Military science fiction">Military science fiction</a><br /><a href="/wiki/Mecha_anime_and_manga" title="Mecha anime and manga">Real robot</a></td></tr></tbody></table>
+<p><i><b>Gundam</b></i><span style="font-weight: normal"> (<span lang="ja" title="Japanese language text">ガンダム</span>, <i lang="ja-Latn" title="Hepburn transliteration">Gandamu</i>)</span>, also known as the <b><i>Gundam</i> series</b><span style="font-weight: normal"> (<span lang="ja" title="Japanese language text">ガンダムシリーズ</span>, <i lang="ja-Latn" title="Hepburn transliteration">Gandamu Shirīzu</i>)</span>, is a Japanese <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a> <a href="/wiki/Media_franchise" class="mw-redirect" title="Media franchise">media franchise</a>/<a href="/wiki/Media_mix" title="Media mix">media mix</a> created by <a href="/wiki/Yoshiyuki_Tomino" title="Yoshiyuki Tomino">Yoshiyuki Tomino</a> and <a href="/wiki/Sunrise_(company)" title="Sunrise (company)">Sunrise</a> that features <a href="/wiki/Giant_robots" class="mw-redirect" title="Giant robots">giant robots</a> (<a href="/wiki/Mecha" title="Mecha">mecha</a>) with the name "Gundam" (after the <a href="/wiki/RX-78-2_Gundam" class="mw-redirect" title="RX-78-2 Gundam">original titular mecha</a>).  The franchise began on April 7, 1979 with <i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></i>, a <a href="/wiki/TV_series" class="mw-redirect" title="TV series">TV series</a> that defined the "<a href="/wiki/Real_robot" class="mw-redirect" title="Real robot">real robot</a>" <a href="/wiki/Mecha_anime" class="mw-redirect" title="Mecha anime">mecha anime</a> genre by featuring giant robots called <a href="/wiki/Powered_exoskeleton" title="Powered exoskeleton">mobile suits</a> in a militaristic setting.  The popularity of the series and its merchandise spawned a franchise that includes television series, <a href="/wiki/Original_Video_Animation" class="mw-redirect" title="Original Video Animation">OVAs</a>, films, <a href="/wiki/Manga" title="Manga">manga</a>, novels and video games, as well as a whole industry of <a href="/wiki/Model_robot" title="Model robot">model robots</a> known as <a href="/wiki/Gunpla" class="mw-redirect" title="Gunpla">Gunpla</a> (plastic <a href="/wiki/Gundam_model" title="Gundam model">Gundam model</a>).
+</p><p>Gunpla makes up 90 percent of the Japanese character plastic-model market.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Academics in Japan have viewed the series as inspiration; in 2008, the virtual Gundam Academy was planned as the first academic institution based on an animated TV series.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The <i>Gundam</i> franchise had grossed over <span style="white-space: nowrap">$5 billion</span> in retail sales by 2000.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> By 2014, annual revenue of the <i>Gundam</i> franchise reached <a href="/wiki/Japanese_yen" title="Japanese yen">¥</a>80 billion per year,<sup id="cite_ref-bandainamco.co.jp_5-0" class="reference"><a href="#cite_note-bandainamco.co.jp-5">&#91;5&#93;</a></sup> ¥18.4 billion of which was retail sales of toys and hobby items.<sup id="cite_ref-bandainamco.co.jp_5-1" class="reference"><a href="#cite_note-bandainamco.co.jp-5">&#91;5&#93;</a></sup> As of 2018, <i>Gundam</i> is one of the top 15 <a href="/wiki/List_of_highest-grossing_media_franchises" title="List of highest-grossing media franchises">highest-grossing media franchises</a> of all time,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> estimated to have generated more than <span style="white-space: nowrap">$20 billion</span> in total revenue.<sup id="cite_ref-Gundam-Retail_7-0" class="reference"><a href="#cite_note-Gundam-Retail-7">&#91;a&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Concept"><span class="tocnumber">1.1</span> <span class="toctext">Concept</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Innovation"><span class="tocnumber">1.2</span> <span class="toctext">Innovation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Timelines"><span class="tocnumber">1.3</span> <span class="toctext">Timelines</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Spinoffs"><span class="tocnumber">1.4</span> <span class="toctext">Spinoffs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Media"><span class="tocnumber">2</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#TV_series,_films,_and_video"><span class="tocnumber">2.1</span> <span class="toctext">TV series, films, and video</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Manga_and_novels"><span class="tocnumber">2.2</span> <span class="toctext">Manga and novels</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Video_games"><span class="tocnumber">2.3</span> <span class="toctext">Video games</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Gundam_models"><span class="tocnumber">2.4</span> <span class="toctext">Gundam models</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Other_merchandise"><span class="tocnumber">2.5</span> <span class="toctext">Other merchandise</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Internet"><span class="tocnumber">2.6</span> <span class="toctext">Internet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Global_spread"><span class="tocnumber">3</span> <span class="toctext">Global spread</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Impact"><span class="tocnumber">4</span> <span class="toctext">Impact</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Concept">Concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=2" title="Edit section: Concept">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Mobile Suit Gundam</i> was developed by animator <a href="/wiki/Yoshiyuki_Tomino" title="Yoshiyuki Tomino">Yoshiyuki Tomino</a> and a changing group of Sunrise creators with the collective pseudonym of <a href="/wiki/Hajime_Yatate" title="Hajime Yatate">Hajime Yatate</a>. The series was originally entitled <i>Freedom Fighter Gunboy</i> (or <i>Gunboy</i>) for the robot's gun, with teen boys the primary target demographic. Early production had a number of references to <a href="/wiki/Freedom_(political)" class="mw-redirect" title="Freedom (political)">freedom</a>: the <a href="/wiki/White_Base" title="White Base">White Base</a> was originally "Freedom's Fortress", the Core Fighter was the "Freedom Wing" and the Gunperry was the "Freedom Cruiser". The Yatate team combined the English word "gun" with the last syllable of the word "freedom" to form the <a href="/wiki/Portmanteau" title="Portmanteau">portmanteau</a> <i>Gundom</i>. Tomino changed it to <i>Gundam</i>, suggesting a unit wielding a gun powerful enough to hold back enemies like a hydroelectric <a href="/wiki/Dam" title="Dam">dam</a> holding back water.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;7&#93;</a></sup> In keeping with the concept, Gundams are depicted as prototypes or limited-production, with higher capabilities than mass-produced units.
+</p><p>Most Gundams are large, bipedal, <a href="/wiki/Humanoid" title="Humanoid">humanoid</a> vehicles controlled from a <a href="/wiki/Cockpit" title="Cockpit">cockpit</a> by a human pilot. The cockpit is located in the <a href="/wiki/Torso" title="Torso">torso</a>, while the <a href="/wiki/Head" title="Head">head</a> serves as a camera to transmit images back to the cockpit. Most of the series protagonists are <a href="/wiki/Newtypes" class="mw-redirect" title="Newtypes">Newtypes</a>, genetically advanced humans adapted for space. Newtypes have <a href="/wiki/Extrasensory_perception" title="Extrasensory perception">psychic abilities</a> that enable them to sense each other across space and to utilize special mobile suits.
+</p><p>The series itself has been described as a <a href="/wiki/Space_opera" title="Space opera">space opera</a>.<sup id="cite_ref-Stuckmann2018_9-0" class="reference"><a href="#cite_note-Stuckmann2018-9">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Innovation">Innovation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=3" title="Edit section: Innovation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Mobile Suit Gundam</i> reportedly pioneered the <a href="/wiki/Real_robot" class="mw-redirect" title="Real robot">real robot</a> subgenre of <a href="/wiki/Mecha_anime" class="mw-redirect" title="Mecha anime">mecha anime</a>.<sup id="cite_ref-Oppliger_10-0" class="reference"><a href="#cite_note-Oppliger-10">&#91;9&#93;</a></sup> Unlike its <a href="/wiki/Super_robot" class="mw-redirect" title="Super robot">super robot</a> cousins, <i>Mobile Suit Gundam</i> attempted realism in its robot design and weaponry by running out of energy and ammunition or malfunctioning. Its technology is derived from actual science (such as <a href="/wiki/Lagrange_points" class="mw-redirect" title="Lagrange points">Lagrange points</a> and the <a href="/wiki/O%27Neill_cylinder" title="O&#39;Neill cylinder">O'Neill cylinder</a> in space, and the use of <a href="/wiki/Helium-3" title="Helium-3">Helium-3</a> as an energy source) or feasible technology requiring only a few fictional elements to function (such as <a href="/wiki/Minovsky_Physics" class="mw-redirect" title="Minovsky Physics">Minovsky Physics</a>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Timelines"><span id="Narrative"></span>Timelines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=4" title="Edit section: Timelines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most of the <i>Gundam</i> animation (including the earliest series) is set in what is known as the Universal Century (UC) <a href="/wiki/Calendar_era" title="Calendar era">calendar era</a>, with later series set in alternate calendars or <a href="/wiki/Alternate_future" class="mw-redirect" title="Alternate future">timelines</a>. Although many new Gundam stories are told in their parallel universe with independent timelines (giving them greater creative freedom), the original UC storyline continues to be popular. It established the series, setting the standard for <a href="/wiki/Hard_science_fiction" title="Hard science fiction">hard science fiction</a> in anime; the original <i>Gundam</i> marked the maturing of the giant-robot genre. Nostalgia for the oldest <i>Gundam</i> shows (and its status as a pop-culture icon in Japan) is a factor in its continuing success.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Spinoffs">Spinoffs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=5" title="Edit section: Spinoffs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i><a href="/wiki/SD_Gundam" title="SD Gundam">SD Gundam</a></i>, a spinoff of <i>Gundam</i> which began during the mid-1980s, features <a href="/wiki/Super_deformed" class="mw-redirect" title="Super deformed">super deformed</a> designs and emphasizes comedy and adventure. <i><a href="/wiki/Model_Suit_Gunpla_Build,ers_Beginning_G" title="Model Suit Gunpla Builders Beginning G">Model Suit Gunpla Builders Beginning G</a></i>, <i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters</a></i>, and <i><a href="/wiki/Gundam_Build_Divers" title="Gundam Build Divers">Gundam Build Divers</a></i> feature contemporary settings and use Gunpla as plot elements.
+</p>
+<h2><span class="mw-headline" id="Media"><span id="Franchise"></span>Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=6" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="TV_series.2C_films.2C_and_video"></span><span class="mw-headline" id="TV_series,_films,_and_video">TV series, films, and video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=7" title="Edit section: TV series, films, and video">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Except for <i>Mobile Suit Gundam 00</i> (which follows the <a href="/wiki/Common_Era" title="Common Era">current calendar era</a>), all mainstream Gundam series are set in a fictional era which begins after a drastic event or chain of events. The scenario commonly changes as the story progresses between Earth, space, space colonies and in some cases the Moon and <a href="/wiki/Terraforming" title="Terraforming">terraformed</a> planets.
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th scope="col">Name
+</th>
+<th scope="col">Media
+</th>
+<th scope="col">Release date
+</th>
+<th scope="col">Timeline and year
+</th></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></i>
+</td>
+<td>TV series: 43 episodes.
+</td>
+<td>1979&#8211;1980
+</td>
+<td rowspan="2">UC 0079
+</td></tr>
+<tr>
+<td>Compilation movies
+</td>
+<td>1981&#8211;1982
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Zeta_Gundam" title="Mobile Suit Zeta Gundam">Mobile Suit Zeta Gundam</a></i>
+</td>
+<td>TV series: 50 episodes.
+</td>
+<td>1985&#8211;1986
+</td>
+<td rowspan="2">UC 0087
+</td></tr>
+<tr>
+<td>Compilation movies
+</td>
+<td>2005&#8211;2006
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam_ZZ" title="Mobile Suit Gundam ZZ">Mobile Suit Gundam ZZ</a></i>
+</td>
+<td>TV series: 47 episodes.
+</td>
+<td>1986&#8211;1987
+</td>
+<td rowspan="2">UC 0088
+</td></tr>
+<tr>
+<td><a href="/wiki/Original_Video_Animation" class="mw-redirect" title="Original Video Animation">OVA</a>: 2 episodes
+</td>
+<td>2009
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam:_Char%27s_Counterattack" title="Mobile Suit Gundam: Char&#39;s Counterattack">Mobile Suit Gundam: Char's Counterattack</a></i>
+</td>
+<td>Movie
+</td>
+<td>1988
+</td>
+<td>UC 0093
+</td></tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">Mobile Suit SD Gundam</a></i>
+</td>
+<td>Movies
+</td>
+<td>1988, 1989, 1991, 1993
+</td>
+<td>
+</td></tr>
+<tr>
+<td>OVA
+</td>
+<td>1989&#8211;1991
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Compilation TV series
+</td>
+<td>1993
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_0080:_War_in_the_Pocket" title="Mobile Suit Gundam 0080: War in the Pocket">Mobile Suit Gundam 0080: War in the Pocket</a></i>
+</td>
+<td>OVA: 6 episodes
+</td>
+<td>1989
+</td>
+<td>UC 0079-80
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_F91" title="Mobile Suit Gundam F91">Mobile Suit Gundam F91</a></i>
+</td>
+<td>Movie
+</td>
+<td>1991
+</td>
+<td>UC 0123
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory" title="Mobile Suit Gundam 0083: Stardust Memory">Mobile Suit Gundam 0083: Stardust Memory</a></i>
+</td>
+<td>OVA: 13 episodes
+</td>
+<td>1991&#8211;1992
+</td>
+<td rowspan="2">UC 0083
+</td></tr>
+<tr>
+<td>Compilation movie
+</td>
+<td>1992
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Victory_Gundam" title="Mobile Suit Victory Gundam">Mobile Suit Victory Gundam</a></i>
+</td>
+<td>TV series: 51 episodes
+</td>
+<td>1993&#8211;1994
+</td>
+<td>UC 0153
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Fighter_G_Gundam" title="Mobile Fighter G Gundam">Mobile Fighter G Gundam</a></i>
+</td>
+<td>TV series: 49 episodes
+</td>
+<td>1994&#8211;1995
+</td>
+<td>Future Century 60
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam_Wing" title="Mobile Suit Gundam Wing">Mobile Suit Gundam Wing</a></i>
+</td>
+<td>TV series: 49 episodes
+</td>
+<td>1995&#8211;1996
+</td>
+<td rowspan="2">After Colony 195
+</td></tr>
+<tr>
+<td>Compilation specials
+</td>
+<td>1996
+</td></tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team" title="Mobile Suit Gundam: The 08th MS Team">Mobile Suit Gundam: The 08th MS Team</a></i>
+</td>
+<td>OVA: 12 episodes
+</td>
+<td>1996&#8211;1999
+</td>
+<td rowspan="3">UC 0079
+</td></tr>
+<tr>
+<td>Compilation movie
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td>Special
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td><i><a href="/wiki/After_War_Gundam_X" title="After War Gundam X">After War Gundam X</a></i>
+</td>
+<td>TV series: 39 episodes
+</td>
+<td>1996
+</td>
+<td>After War 15
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Gundam_Wing:_Endless_Waltz" title="Gundam Wing: Endless Waltz">Gundam Wing: Endless Waltz</a></i>
+</td>
+<td>OVA: 3 episodes
+</td>
+<td>1997
+</td>
+<td rowspan="2">After Colony 196
+</td></tr>
+<tr>
+<td>Compilation movie
+</td>
+<td>1998
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Turn_A_Gundam" title="Turn A Gundam">Turn A Gundam</a></i>
+</td>
+<td>TV series: 50 episodes
+</td>
+<td>1999&#8211;2000
+</td>
+<td rowspan="2">Correct Century 2343-5
+</td></tr>
+<tr>
+<td>Compilation movies
+</td>
+<td>2002
+</td></tr>
+<tr>
+<td><i><a href="/wiki/G-Saviour" title="G-Saviour">G-Saviour</a></i>
+</td>
+<td>Live-action movie
+</td>
+<td>2000
+</td>
+<td>UC 0223
+</td></tr>
+<tr>
+<td><i>Gundam Neo Experience 0087: Green Diver</i>
+</td>
+<td>Specialty format movie
+</td>
+<td>2001
+</td>
+<td>UC 0087
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Gundam_Evolve" title="Gundam Evolve">Gundam Evolve</a></i>
+</td>
+<td>Animated shorts: 15 episodes
+</td>
+<td>2001&#8211;2007
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Mobile_Suit_Gundam_SEED" title="Mobile Suit Gundam SEED">Mobile Suit Gundam SEED</a></i>
+</td>
+<td>TV series: 50 episodes
+</td>
+<td>2002&#8211;2003
+</td>
+<td rowspan="3">Cosmic Era 71
+</td></tr>
+<tr>
+<td>Compilation specials: 3 episodes
+</td>
+<td>2004
+</td></tr>
+<tr>
+<td>OVA: 2 episodes
+</td>
+<td>2004
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Superior_Defender_Gundam_Force" title="Superior Defender Gundam Force">Superior Defender Gundam Force</a></i>
+</td>
+<td>TV series: 52 episodes
+</td>
+<td>2003&#8211;2004
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">Mobile Suit Gundam MS IGLOO: The Hidden One Year War</a></i>
+</td>
+<td>OVA: 3 episodes
+</td>
+<td>2004
+</td>
+<td>UC 0079
+</td></tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny" title="Mobile Suit Gundam SEED Destiny">Mobile Suit Gundam SEED Destiny</a></i>
+</td>
+<td>TV series: 50 episodes
+</td>
+<td>2004&#8211;2005
+</td>
+<td rowspan="3">Cosmic Era 73-74
+</td></tr>
+<tr>
+<td>OVA: 1 episode
+</td>
+<td>2004
+</td></tr>
+<tr>
+<td>Compilation specials: 4 episodes
+</td>
+<td>2006
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">Mobile Suit Gundam MS IGLOO: Apocalypse 0079</a></i>
+</td>
+<td>OVA: 3 episodes
+</td>
+<td>2006
+</td>
+<td>UC 0079
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_SEED_C.E._73:_Stargazer" title="Mobile Suit Gundam SEED C.E. 73: Stargazer">Mobile Suit Gundam SEED C.E. 73: Stargazer</a></i>
+</td>
+<td>OVA: 1 episode
+</td>
+<td>2006
+</td>
+<td>Cosmic Era 73
+</td></tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Mobile_Suit_Gundam_00" title="Mobile Suit Gundam 00">Mobile Suit Gundam 00</a></i>
+</td>
+<td>TV series: 50 episodes
+</td>
+<td>2007&#8211;2008
+</td>
+<td rowspan="3">Anno Domini 2307-8, 2312, 2314
+</td></tr>
+<tr>
+<td>OVA: 3 episodes
+</td>
+<td>2009
+</td></tr>
+<tr>
+<td>Movie
+</td>
+<td>2010
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">Mobile Suit Gundam MS IGLOO 2: Gravity Front</a></i>
+</td>
+<td>OVA: 3 episodes
+</td>
+<td>2009
+</td>
+<td>UC 0079
+</td></tr>
+<tr>
+<td rowspan="3"><i><a href="/wiki/Mobile_Suit_Gundam_Unicorn" title="Mobile Suit Gundam Unicorn">Mobile Suit Gundam Unicorn</a></i>
+</td>
+<td>OVA: 7 episode
+</td>
+<td>2010&#8211;2014
+</td>
+<td rowspan="3">UC 0096
+</td></tr>
+<tr>
+<td>Specials: 3 episodes
+</td>
+<td>2013-2014
+</td></tr>
+<tr>
+<td>Compilation TV series:<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;12&#93;</a></sup> 22 episodes
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors" title="SD Gundam Sangokuden Brave Battle Warriors">SD Gundam Sangokuden Brave Battle Warriors</a></i>
+</td>
+<td>Movie
+</td>
+<td rowspan="2">2010
+</td>
+<td rowspan="2">
+</td></tr>
+<tr>
+<td>TV series: 51 episodes
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_00_the_Movie:_A_Wakening_of_the_Trailblazer" title="Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer">Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer</a></i>
+</td>
+<td>Movie
+</td>
+<td>2010
+</td>
+<td>Anno Domini 2314
+</td></tr>
+<tr>
+<td><i>,<a href="/wiki/Model_Suit_Gunpla_Builders_Beginning_G" title="Model Suit Gunpla Builders Beginning G">Model Suit Gunpla Builders Beginning G</a></i>
+</td>
+<td>Specials: 3 episodes
+</td>
+<td>2010
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam_AGE" title="Mobile Suit Gundam AGE">Mobile Suit Gundam AGE</a></i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup>
+</td>
+<td>TV Series: 49 episodes
+</td>
+<td>2011&#8211;2012
+</td>
+<td rowspan="2">Advanced Generation 115-164
+</td></tr>
+<tr>
+<td>Compilation specials: 2 episodes
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters</a></i>
+</td>
+<td>TV series: 25 episodes
+</td>
+<td>2013&#8211;2014<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;14&#93;</a></sup>
+</td>
+<td rowspan="2">Our Century
+</td></tr>
+<tr>
+<td>Specials: 3 episodes
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam-san" title="Mobile Suit Gundam-san">Mobile Suit Gundam-san</a></i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;15&#93;</a></sup>
+</td>
+<td>TV series: 13 episodes
+</td>
+<td>2014
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Gundam_Reconguista_in_G" title="Gundam Reconguista in G">Gundam Reconguista in G</a></i><sup id="cite_ref-ann_35th_17-0" class="reference"><a href="#cite_note-ann_35th-17">&#91;16&#93;</a></sup>
+</td>
+<td>TV series: 26 episodes
+</td>
+<td>2014&#8211;2015
+</td>
+<td rowspan="2">Regild Century 1014
+</td></tr>
+<tr>
+<td>Compilation movies: 5
+</td>
+<td>2019&#8211;TBA
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Gundam_Build_Fighters_Try" title="Gundam Build Fighters Try">Gundam Build Fighters Try</a></i>
+</td>
+<td>TV series: 25 episodes
+</td>
+<td>2014&#8211;2015<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;17&#93;</a></sup>
+</td>
+<td rowspan="2">Our Century
+</td></tr>
+<tr>
+<td>Movie
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam:_The_Origin" title="Mobile Suit Gundam: The Origin">Mobile Suit Gundam: The Origin</a></i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;18&#93;</a></sup>
+</td>
+<td>OVA:<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;19&#93;</a></sup> 6 episodes
+</td>
+<td>2015&#8211;2018<sup id="cite_ref-ann_35th_17-1" class="reference"><a href="#cite_note-ann_35th-17">&#91;16&#93;</a></sup>
+</td>
+<td rowspan="2">UC 0068, 0071, 0078
+</td></tr>
+<tr>
+<td>TV series: 13 episodes
+</td>
+<td>2019
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam:_Iron-Blooded_Orphans" title="Mobile Suit Gundam: Iron-Blooded Orphans">Mobile Suit Gundam: Iron-Blooded Orphans</a></i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup>
+</td>
+<td>TV series: 50 episodes
+</td>
+<td>2015&#8211;2017
+</td>
+<td>Post Disaster 323, 325
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam_Thunderbolt" title="Mobile Suit Gundam Thunderbolt">Mobile Suit Gundam Thunderbolt</a></i><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;21&#93;</a></sup>
+</td>
+<td>OVA: 8 episodes
+</td>
+<td>2015&#8211;2017
+</td>
+<td rowspan="2">UC 0079
+</td></tr>
+<tr>
+<td>Compilation movies: 2
+</td>
+<td>2016&#8211;2017
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Mobile_Suit_Gundam:_Twilight_AXIS" title="Mobile Suit Gundam: Twilight AXIS">Mobile Suit Gundam: Twilight AXIS</a></i><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;22&#93;</a></sup>
+</td>
+<td>ONA: 6 episodes
+</td>
+<td>2017
+</td>
+<td rowspan="2">UC 0096
+</td></tr>
+<tr>
+<td>Compilation movie
+</td>
+<td>2017
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters: Battlogue</a></i><sup id="cite_ref-na.gundam.info_24-0" class="reference"><a href="#cite_note-na.gundam.info-24">&#91;23&#93;</a></sup>
+</td>
+<td>OVA: 3 episodes
+</td>
+<td>2017
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters: GM's Counterattack</a></i><sup id="cite_ref-na.gundam.info_24-1" class="reference"><a href="#cite_note-na.gundam.info-24">&#91;23&#93;</a></sup>
+</td>
+<td>Movie
+</td>
+<td>2017
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/Gundam_Build_Divers" title="Gundam Build Divers">Gundam Build Divers</a></i>
+</td>
+<td>Prologue OVA
+</td>
+<td rowspan="2">2018
+</td>
+<td rowspan="2">Our Century
+</td></tr>
+<tr>
+<td>TV Series: 25 episodes
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam_Narrative" title="Mobile Suit Gundam Narrative">Mobile Suit Gundam Narrative</a></i><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;24&#93;</a></sup>
+</td>
+<td>Movie
+</td>
+<td>2018
+</td>
+<td>UC 0097
+</td></tr>
+<tr>
+<td><i><a href="/wiki/SD_Gundam_World_Sangoku_Soketsuden" title="SD Gundam World Sangoku Soketsuden">SD Gundam World Sangoku Soketsuden</a></i>
+</td>
+<td>Net Animation
+</td>
+<td>2019&#8211;TBA
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Gundam_Build_Divers_Re:Rise" title="Gundam Build Divers Re:Rise">Gundam Build Divers Re:Rise</a></i>
+</td>
+<td>Net Animation
+</td>
+<td>2019&#8211;TBA
+</td>
+<td>Our Century
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Mobile_Suit_Gundam:_Hathaway%27s_Flash" title="Mobile Suit Gundam: Hathaway&#39;s Flash">Mobile Suit Gundam: Hathaway's Flash</a></i><sup id="cite_ref-Official_site_26-0" class="reference"><a href="#cite_note-Official_site-26">&#91;25&#93;</a></sup>
+</td>
+<td>Movies
+</td>
+<td>2020&#8211;TBA
+</td>
+<td>UC 0105
+</td></tr></tbody></table>
+<p>On July 5, 2018, it was announced at the Anime Expo 2018 that <a href="/wiki/Legendary_Pictures" class="mw-redirect" title="Legendary Pictures">Legendary Pictures</a> and Sunrise are teaming up to developing a Live action Gundam movie.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup> On March 6, 2019, Deadline reports that <a href="/wiki/Brian_K._Vaughan" title="Brian K. Vaughan">Brian K. Vaughan</a> will write and will also serve as an executive producer for the film.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;27&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Manga_and_novels">Manga and novels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=8" title="Edit section: Manga and novels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_Gundam_manga_and_novels" title="List of Gundam manga and novels">List of Gundam manga and novels</a></div>
+<p>Manga adaptations of the <i>Gundam</i> series have been published in English in North, America by a number of companies, such as <a href="/wiki/Viz_Media" title="Viz Media">Viz Media</a>, <a href="/wiki/Del_Rey_Manga" title="Del Rey Manga">Del Rey Manga</a> and <a href="/wiki/Tokyopop" title="Tokyopop">Tokyopop</a>, and in <a href="/wiki/Singapore" title="Singapore">Singapore</a> by <a href="/wiki/Chuang_Yi" title="Chuang Yi">Chuang Yi</a>.
+</p>
+<h3><span class="mw-headline" id="Video_games">Video games</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=9" title="Edit section: Video games">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_Gundam_video_games" title="List of Gundam video games">List of Gundam video games</a></div>
+<p><i>Gundam</i> has spawned over 80 video games for arcade, computer and console platforms, some with characters not found in other <i>Gundam</i> media. Some of the games, in turn inspired spinoff novels and manga. Most <i>Gundam</i> video games, except <i><a href="/wiki/Dynasty_Warriors:_Gundam" title="Dynasty Warriors: Gundam">Dynasty Warriors: Gundam</a></i>, were released only in Japan.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;28&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Gundam_models"><span id="Gundam_model"></span>Gundam models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=10" title="Edit section: Gundam models">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Gundam_model" title="Gundam model">Gundam model</a></div>
+<p>Hundreds of Gundam models, primarily made of plastic but sometimes with resin and metal detail parts, have been released. They range in quality from children's toy kits to hobbyist and museum-grade models, and most are in 1:35, 1:48, 1:60, 1:100 or 1:144 scale. Promotional 1:6 or 1:12 scale models are supplied to retailers and are not commercially available. For <i>Gundam</i><span class="nowrap" style="padding-left:0.1em;">&#39;s</span> 30th anniversary, a full-size RX-78-2 Gundam model was constructed and displayed at Gundam Front Tokyo, in the Odaiba district;<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup> it was taken down on 5 March 2017.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;30&#93;</a></sup> A new statue of the Unicorn Gundam was erected at the same location, now renamed The Gundam Base Tokyo.
+</p>
+<h3><span class="mw-headline" id="Other_merchandise">Other merchandise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=11" title="Edit section: Other merchandise">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Bandai" title="Bandai">Bandai</a>, <i>Gundam</i><span class="nowrap" style="padding-left:0.1em;">&#39;s</span> primary licensee, produces a variety of products.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;31&#93;</a></sup> Other companies produce unofficial merchandise, such as toys, models and T-shirts. Products include Mobile Suit In Action (MSiA) action figures and Gundam model kits in several scales and design complexities. Each series generally has its own set of products, MSiA and model lines such as Master Grade and High Grade Universal Century may extend across series. The most popular action-figure line has been the Gundam Fix series, which includes the mecha in the animated series, manga and novels and accessories to create an updated version. In addition to Master Grade and High Grade Gundams, Bandai released a 30th-anniversary series of Gundam models in 2010.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;32&#93;</a></sup> The Real Grade (RG) Gundam series combined the Master Grade's detailed inner structure with additional colour separation, making the 1:144-scale series complex in design and compact in size. After the introduction of the RG Gundam series, Bandai released the Metal Build series in March 2011 (beginning with the 00 Gundam).<sup id="cite_ref-Gundam_metal_build_34-0" class="reference"><a href="#cite_note-Gundam_metal_build-34">&#91;33&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Internet">Internet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=12" title="Edit section: Internet">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bandai maintains several websites to promote <i>Gundam</i> projects; Gundam Perfect Web is the official Japanese site. Its English-language counterpart is the US-maintained Gundam Official. In 2005, the website hosted the Gundam Official User Forum. The forum was based on the existing fan forum, Gundam Watch, using many of its staff. When the project was retired, Gundam Watch was reborn and became Gundam Evolution.
+</p><p>A number of series-specific websites have been created, often available for a limited time (usually to promote a <a href="/wiki/DVD" title="DVD">DVD</a> release). Common content includes character and mecha listings, lists of related merchandise and pay-for-download content. Special pages are frequent, often presenting downloadable wallpaper or a small game. The <i><a href="/wiki/Superior_Defender_Gundam_Force" title="Superior Defender Gundam Force">Superior Defender Gundam Force</a></i> website has a game in which players take the role of villain Commander Sazabi, attempting to blast his subordinate with weapons.
+</p>
+<h2><span class="mw-headline" id="Global_spread"><span id="Global_debut"></span>Global spread</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=13" title="Edit section: Global spread">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since 1980, <i>Gundam</i> has appeared in the following countries and regions:
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Country
+</th>
+<th>Debut year
+</th></tr>
+<tr>
+<td><a href="/wiki/Italy" title="Italy">Italy</a><br /><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></td>
+<td>1980
+</td></tr>
+<tr>
+<td><a href="/wiki/Taiwan" title="Taiwan">Taiwan</a><br /><a href="/wiki/China" title="China">China</a><br /><a href="/wiki/Thailand" title="Thailand">Thailand</a></td>
+<td>1981
+</td></tr>
+<tr>
+<td><a href="/wiki/Singapore" title="Singapore">Singapore</a><br /><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a><br /><a href="/wiki/Korea" title="Korea">Korea</a></td>
+<td>1982
+</td></tr>
+<tr>
+<td><a href="/wiki/Philippines" title="Philippines">Philippines</a></td>
+<td>1983
+</td></tr>
+<tr>
+<td><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></td>
+<td>1987
+</td></tr>
+<tr>
+<td><a href="/wiki/United_States" title="United States">United States</a><br /><a href="/wiki/Canada" title="Canada">Canada</a><br /><a href="/wiki/Latin_America" title="Latin America">Latin America</a><br /><a href="/wiki/Australia" title="Australia">Australia</a><br /><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a><br />Rest of <a href="/wiki/Europe" title="Europe">Europe</a> outside Italy</td>
+<td>1994
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Impact">Impact</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=14" title="Edit section: Impact">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cultural_impact_of_Gundam" title="Cultural impact of Gundam">Cultural impact of Gundam</a></div>
+<p><i>Gundam</i> is a Japanese cultural icon; it is a ¥50-billion-annual business of Bandai Namco, reaching ¥54.5 billion annual revenue by 2006,<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;34&#93;</a></sup> and <span style="white-space: nowrap">¥80.2 billion</span> annual revenue by 2014.<sup id="cite_ref-bandainamco.co.jp_5-2" class="reference"><a href="#cite_note-bandainamco.co.jp-5">&#91;5&#93;</a></sup> Stamps were issued, an Agriculture Ministry employee was reprimanded for contributing to the Japanese Wikipedia Gundam-related pages,<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;35&#93;</a></sup> and the <a href="/wiki/Japan_Self-Defense_Forces" title="Japan Self-Defense Forces">Japan Self-Defense Forces</a> code-named its developing advance personal-combat system Gundam.
+</p><p>The impact of Gundam in Japan has been compared to the impact of <i><a href="/wiki/Star_Wars" title="Star Wars">Star Wars</a></i> in the United States.<sup id="cite_ref-Stuckmann2018_9-1" class="reference"><a href="#cite_note-Stuckmann2018-9">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bandai_Museum" title="Bandai Museum">Bandai Museum</a></li>
+<li><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></li>
+<li><a href="/wiki/Gundam_(fictional_robot)" title="Gundam (fictional robot)">Gundam (fictional robot)</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=16" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Gundam-Retail-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gundam-Retail_7-0">^</a></b></span> <span class="reference-text">See <i><a href="/wiki/Cultural_impact_of_Gundam#Retail_sales" title="Cultural impact of Gundam">Cultural impact of Gundam §&#160;Retail sales</a></i></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081207100050/http://www3.jetro.go.jp/jetro-file/BodyUrlPdfDown.do?bodyurlpdf=05000892_001_BUP_0.pdf">Flow of the Japan toy industry (日本の玩具産業の動向)</a>, Japan Economics Department, Information section (日本経済情報課)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFLewis2008" class="citation web">Lewis, Leo (November 1, 2008). <a rel="nofollow" class="external text" href="https://www.thetimes.co.uk/article/gundam-cartoon-academy-to-turn-science-fiction-into-reality-in-japan-zffmrwsvwgj">"Gundam cartoon academy to turn science fiction into reality in Japan"</a>. <i><a href="/wiki/The_Times" title="The Times">The Times</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 10,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Times&amp;rft.atitle=Gundam+cartoon+academy+to+turn+science+fiction+into+reality+in+Japan&amp;rft.date=2008-11-01&amp;rft.aulast=Lewis&amp;rft.aufirst=Leo&amp;rft_id=https%3A%2F%2Fwww.thetimes.co.uk%2Farticle%2Fgundam-cartoon-academy-to-turn-science-fiction-into-reality-in-japan-zffmrwsvwgj&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://biz.yahoo.com/bw/000613/ny_bandai_.html">"Gundam Wing Phenomenon Grows With Addition of New Licensees as Television Ratings and Toy Line Sales Surge"</a>. <i><a href="/wiki/Business_Wire" title="Business Wire">Business Wire</a></i>. <a href="/wiki/Berkshire_Hathaway" title="Berkshire Hathaway">Berkshire Hathaway</a>. June 13, 2000. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20000821005011/http://biz.yahoo.com/bw/000613/ny_bandai_.html">Archived</a> from the original on 2000-08-21<span class="reference-accessdate">. Retrieved <span class="nowrap">January 8,</span> 2017</span> &#8211; via <a href="/wiki/Yahoo!" title="Yahoo!">Yahoo.com</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+Wire&amp;rft.atitle=Gundam+Wing+Phenomenon+Grows+With+Addition+of+New+Licensees+as+Television+Ratings+and+Toy+Line+,Sales+Surge&amp;rft.date=2000-06-13&amp;rft_id=https%3A%2F%2Fbiz.yahoo.com%2Fbw%2F000613%2Fny_bandai_.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121016114032/https://www.thefreelibrary.com/Gundam+Wing+Phenomenon+Grows+With+Addition+of+New+Licensees+as...-a062704291">"Gundam Wing Phenomenon Grows With Addition of New Licensees as Television Ratings and Toy Line Sales Surge"</a>. <i><a href="/wiki/Business_Wire" title="Business Wire">Business Wire</a></i>. <a href="/wiki/Berkshire_Hathaway" title="Berkshire Hathaway">Berkshire Hathaway</a>. June 13, 2000. Archived from <a rel="nofollow" class="external text" href="https://www.thefreelibrary.com/Gundam+Wing+Phenomenon+Grows+With+Addition+of+New+Licensees+as...-a062704291">the original</a> on October 16, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">August 10,</span> 2019</span> &#8211; via <a href="/wiki/The_Free_Dictionary" title="The Free Dictionary">The Free Dictionary</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+Wire&amp;rft.atitle=Gundam+Wing+Phenomenon+Grows+With+Addition+of+New+Licensees+as+Television+Ratings+and+Toy+Line+Sales+Surge.&amp;rft.date=2000-06-13&amp;rft_id=https%3A%2F%2Fwww.thefreelibrary.com%2FGundam%2BWing%2BPhenomenon%2BGrows%2BWith%2BAddition%2Bof%2BNew%2BLicensees%2Bas...-a062704291&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-bandainamco.co.jp-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-bandainamco.co.jp_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bandainamco.co.jp_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bandainamco.co.jp_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bandainamco.co.jp/files/E8A39CE8B6B3E8B387E69699EFBC88E88BB1EFBC89.pdf">Bandai Namco Fiscal Year 2014 Financial Statement</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFPeters2018" class="citation news">Peters, Megan (June 23, 2018). <a rel="nofollow" class="external text" href="https://comicbook.com/anime/2018/06/24/pokemon-franchise-revenue-anime-media/">"<span class="cs1-kern-left">'</span>Pokemon' Is The Highest-Grossing Franchise Of All-Time"</a>. <i>ComicBook.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ComicBook.com&amp;rft.atitle=%27Pokemon%27+Is+The+Highest-Grossing+Franchise+Of+All-Time&amp;rft.date=2018-06-23&amp;rft.aulast=Peters&amp;rft.aufirst=Megan&amp;rft_id=https%3A%2F%2Fcomicbook.com%2Fanime%2F2018%2F06%2F24%2Fpokemon-franchise-revenue-anime-media%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Gundam Archives, production notes</span>
+</li>
+<li id="cite_note-Stuckmann2018-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stuckmann2018_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stuckmann2018_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFChris_Stuckmann2018" class="citation book">Chris Stuckmann (15 May 2018). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=dFxZDwAAQBAJ&amp;pg=PT42"><i>Anime Impact: The Movies and Shows that Changed the World of Japanese Animation</i></a>. Mango Media Inc. p.&#160;42. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-63353-733-0" title="Special:BookSources/978-1-63353-733-0"><bdi>978-1-63353-733-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Anime+Impact%3A+The+Movies+and+Shows+that+Changed+the+World+of+Japanese+Animation&amp;rft.pages=42&amp;rft.pub=Mango+Media+Inc.&amp;rft.date=2018-05-15&amp;rft.isbn=978-1-63353-733-0&amp;rft.au=Chris+Stuckmann&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DdFxZDwAAQBAJ%26pg%3DPT42&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Oppliger-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oppliger_10-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFOppliger2007" class="citation web"><a href="/wiki/AnimeNation#John_Oppliger" title="AnimeNation">Oppliger, John</a> (2007-10-12). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090616111552/http://www.animenation.net/blog/2007/10/12/ask-john-which-gundam-series-have-had-the-most-impact-on-anime/">"Ask John: Which Gundam Series Have Had the Most Impact on Anime?"</a>. <a href="/wiki/AnimeNation" title="AnimeNation">AnimeNation</a>. Archived from <a rel="nofollow" class="external text" href="http://www.animenation.net/blog/2007/10/12/ask-john-which-gundam-series-have-had-the-most-impact-on-anime/">the original</a> on 2009-06-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ask+John%3A+Which+Gundam+Series+Have+Had+the+Most+Impact+on+Anime%3F&amp;rft.pub=AnimeNation&amp;rft.date=2007-10-12&amp;rft.aulast=Oppliger&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwww.animenation.net%2Fblog%2F2007%2F10%2F12%2Fask-john-which-gundam-series-have-had-the-most-impact-on-anime%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Gundam Science, The High Frontier - G.K. O'neil's Space colonization plan, Gundam Century, Out Magazine special edition, Renewal Version</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.mhi.co.jp/news/sec1/020220nl.html">[1]</a> <i>機動戦士ガンダムは、同じくバンダイグループの（株）サンライズが制作し、1979年4月～1980年1月にテレビシリーズ第１作が放映されて以来、テレビシリーズ8作品、劇場用映画9作品などが公開され、20年以上にわたり人気を保っています。米国をはじめ、ヨーロッパ、アジアでも作品が放映され、各地で高い人気を得ています。</i></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2016-02-20/gundam-uc-anime-gets-tv-broadcast-with-new-opening-ending-themes/.98914">"Gundam UC Anime Gets TV Broadcast With New Opening, Ending Themes (Updated) - News"</a>. <i>Anime News Network</i>. 2016-02-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Gundam+UC+Anime+Gets+TV+Broadcast+With+New+Opening%2C+Ending+Themes+%28Updated%29+-+News&amp;rft.date=2016-02-20&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2016-02-20%2Fgundam-uc-anime-gets-tv-broadcast-with-new-opening-ending-themes%2F.98914&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2011-06-09/level-5-to-help-create-gundam-age-anime-this-fall">"Level 5 to Help Create Gundam AGE Anime This Fall (Updated) - News"</a>. <i>Anime News Network</i>. 2011-06-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Level+5+to+Help+Create+Gundam+AGE+Anime+This+Fall+%28Updated%29+-+News&amp;rft.date=2011-06-09&amp;r,ft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2011-06-09%2Flevel-5-to-help-create-gundam-age-anime-this-fall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite id="CITEREFjohnny_ridden" class="citation web">johnny ridden. <a rel="nofollow" class="external text" href="http://gundamguy.blogspot.com/2014/05/gundam-build-fighters-season-2-announced.html">"GUNDAM GUY: Gundam Build Fighters Season 2 - New Series Project In Progress!"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=GUNDAM+GUY%3A+Gundam+Build+Fighters+Season+2+-+New+Series+Project+In+Progress%21&amp;rft.au=johnny+ridden&amp;rft_id=http%3A%2F%2Fgundamguy.blogspot.com%2F2014%2F05%2Fgundam-build-fighters-season-2-announced.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2014-06-24/mobile-suit-gundam-san-4-panel-gag-manga-gets-anime/.75876">"Mobile Suit Gundam-san 4-Panel Gag Manga Gets Anime"</a>. <i><a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></i>. June 24, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 24,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Mobile+Suit+Gundam-san+4-Panel+Gag+Manga+Gets+Anime&amp;rft.date=2014-06-24&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2014-06-24%2Fmobile-suit-gundam-san-4-panel-gag-manga-gets-anime%2F.75876&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-ann_35th-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-ann_35th_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ann_35th_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2014-03-20/gundam-35th-year-marked-with-reconguista-in-g-the-origin">"Gundam's 35th Year Marked With Reconguista in G, The Origin"</a>. <i>Anime News Network</i>. 2014-03-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Gundam%27s+35th+Year+Marked+With+Reconguista+in+G%2C+The+Origin&amp;rft.date=2014-03-20&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2014-03-20%2Fgundam-35th-year-marked-with-reconguista-in-g-the-origin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gundam-bf.net">"ガンダムビルドファイターズトライ"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%93%E3%83%AB%E3%83%89%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%88%E3%83%A9%E3%82%A4&amp;rft_id=http%3A%2F%2Fwww.gundam-bf.net&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2011-06-22/gundam-the-origin-manga-to-launch-anime-project">"Gundam The Origin Manga to Launch Anime Project - News"</a>. <i>Anime News Network</i>. 2011-06-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-02-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Anime+News+Network&amp;rft.atitle=Gundam+The+Origin+Manga+to+Launch+Anime+Project+-+News&amp;rft.date=2011-06-22&amp;rft_id=https%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2011-06-22%2Fgundam-the-origin-manga-to-launch-anime-project&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140714203835/http://en.gundam.info/topics/white/33575">"<span class="cs1-kern-left">"</span>Gundam The Origin" episode 1 90-second trailer released!"</a>. Gundam.info. 2014-05-31. Archived from <a rel="nofollow" class="external text" href="http://en.gundam.info/topics/white/33575">the original</a> on 2014-07-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%22Gundam+The+Origin%22+episode+1+90-second+trailer+released%21&amp;rft.pub=Gundam.info&amp;rft.date=2014-05-31&amp;rft_id=http%3A%2F%2Fen.gundam.info%2Ftopics%2Fwhite%2F33575&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://g-tekketsu.com/">"機動戦士ガンダム　鉄血のオルフェンズ"</a>. <i>機動戦士ガンダム　鉄血のオルフェンズ</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E,3%83%B3%E3%83%80%E3%83%A0%E3%80%80%E9%89%84%E8%A1%80%E3%81%AE%E3%82%AA%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3%E3%82%BA&amp;rft.atitle=%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%80%80%E9%89%84%E8%A1%80%E3%81%AE%E3%82%AA%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3%E3%82%BA&amp;rft_id=http%3A%2F%2Fg-tekketsu.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://gundam-tb.net/">"『機動戦士ガンダム サンダーボルト』"</a>. <i>『機動戦士ガンダム サンダーボルト』</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%E3%80%8E%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0+%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%88%E3%80%8F&amp;rft.atitle=%E3%80%8E%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0+%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%88%E3%80%8F&amp;rft_id=http%3A%2F%2Fgundam-tb.net%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://g-twilight-axis.net/top.html">"『機動戦士ガンダム Twilight AXIS』"</a>. <i>『機動戦士ガンダム Twilight AXIS』</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=%E3%80%8E%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0+Twilight+AXIS%E3%80%8F&amp;rft.atitle=%E3%80%8E%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0+Twilight+AXIS%E3%80%8F&amp;rft_id=http%3A%2F%2Fg-twilight-axis.net%2Ftop.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-na.gundam.info-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-na.gundam.info_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-na.gundam.info_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170804215148/http://na.gundam.info/topics/white/135006">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://na.gundam.info/topics/white/135006">the original</a> on 2017-08-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-08-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fna.gundam.info%2Ftopics%2Fwhite%2F135006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://natalie.mu/eiga/news/279019">https://natalie.mu/eiga/news/279019</a></span>
+</li>
+<li id="cite_note-Official_site-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Official_site_26-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://gundam-hathaway.net/">"Gundam Hathaway"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-08-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Gundam+Hathaway&amp;rft_id=http%3A%2F%2Fgundam-hathaway.net%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> </span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite id="CITEREFFuster2018" class="citation news">Fuster, Jeremy (July 5, 2018). <a rel="nofollow" class="external text" href="https://www.thewrap.com/gundam-live-action-adaptation-movie-film/">"<span class="cs1-kern-left">'</span>Gundam' Film: Legendary Pictures to Make Live-Action Anime Adaptation"</a>. <i>The Wrap</i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Wrap&amp;rft.atitle=%E2%80%98Gundam%E2%80%99+Film%3A+Legendary+Pictures+to+Make+Live-Action+Anime+Adaptation&amp;rft.date=2018-07-05&amp;rft.aulast=Fuster&amp;rft.aufirst=Jeremy&amp;rft_id=https%3A%2F%2Fwww.thewrap.com%2Fgundam-live-action-adaptation-movie-film%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite id="CITEREFN&#39;DukaBoucher2019" class="citation news">N'Duka, Amanda; Boucher, Geoff (March 6, 2019). <a rel="nofollow" class="external text" href="https://deadline.com/2019/03/brian-k-vaughan-gundam-live-action-movie-legendary-1202569112/">"Brian K. Vaughan To Pen 'Gundam' Live-Action Adaptation For Legendary"</a>. <i><a href="/wiki/Deadline_Hollywood" title="Deadline Hollywood">Deadline Hollywood</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Deadline+Hollywood&amp;rft.atitle=Brian+K.+Vaughan+To+Pen+%E2%80%98Gundam%E2%80%99+Live-Action+Adaptation+For+Legendary&amp;rft.date=2019-03-06&amp;rft.aulast=N%27Duka&amp;rft.aufirst=Amanda&amp;rft.au=Boucher%2C+Geoff&amp;rft_id=https%3A%2F%2Fdeadline.com%2F2019%2F03%2Fbrian-k-vaughan-gundam-live-action-movie-legendary-1202569112%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mobygames.com/browse/games/altjapan-co-ltd/list-games/">"MobyGames: Game Browser"</a>. <i>MobyGames</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MobyGames&amp;rft.atitle=MobyGames%3A+Game+Browser&amp;rft_id=http%3A%2F%2Fwww.mobygames.com%2Fbrowse%2Fgames%2Faltjapan-co-ltd%2Flist-games%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite id="CITEREFappetiteforjapan2015" class="citation web">appetiteforjapan (2015-12-02). <a rel="nofollow" class="external text" href="https://appetiteforjapan.com/2015/12/02/gundam-odaiba/">"Diver City Tokyo: the ultimate Gundam experience"</a>. <i>Appetite For Japan</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Appetite+For+Japan&amp;rft.atitle=Diver+City+Tokyo%3A+the+ultimate+Gundam+experience&amp;rft.date=2015-12-02&amp;rft.au=appetiteforjapan&amp;rft_id=https%3A%2F%2Fappetiteforjapan.com%2F2015%2F12%2F02%2Fgundam-odaiba%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.gundam.info/topic/17012"><bdi lang="ja">「実物大ガンダム立像」5年の歴史に幕。そして新たなプロジェクトへ！</bdi></a>. <i>公式ガンダム情報ポータルサイト「GUNDAM.INFO」</i> (in Japanese)<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%E5%85%AC%E5%BC%8F%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E6%83%85%E5%A0%B1%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8CGUNDAM.INFO%E3%80%8D&amp;rft.atitle=%E3%80%8C%E5%AE%9F%E7%89%A9%E5%A4%A7%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E7%AB%8B%E5%83%8F%E3%80%8D5%E5%B9%B4%E3%81%AE%E6%AD%B4%E5%8F%B2%E3%81%AB%E5%B9%95%E3%80%82%E3%81%9D%E3%81%97%E3%81%A6%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%B8%EF%BC%81&amp;rft_id=http%3A%2F%2Fwww.gundam.info%2Ftopic%2F17012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161026105446/http://na.gundam.info/index/white">"GUNDAM.INFO | The official Gundam news and video portal"</a>. <i>na.gundam.info</i> (in Japanese). Archived from <a rel="nofollow" class="external text" href="http://na.gundam.info/index/white">the original</a> on 2016-10-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=na.gundam.info&amp;rft.atitle=GUNDAM.INFO+%7C+The+official+Gundam+news+and+video+portal&amp;rft_id=http%3A%2F%2Fna.gundam.info%2Findex%2Fwhite&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite id="CITEREFSuzuki" class="citation web">Suzuki, Toshiyuki. <a rel="nofollow" class="external text" href="http://www.1999.co.jp/eng/10115841">"RX-78-2 Gundam (RG) (Gundam Model Kits)"</a>. Hobby Search Co., Ltd<span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RX-78-2+Gundam+%28RG%29+%28Gundam+Model+Kits%29&amp;rft.pub=Hobby+Search+Co.%2C+Ltd.&amp;rft.aulast=Suzuki&amp;rft.aufirst=Toshiyuki&amp;rft_id=http%3A%2F%2Fwww.1999.co.jp%2Feng%2F10115841&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Gundam_metal_build-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gundam_metal_build_34-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gundamplanet.com/metal-build-freedom-gundam.html">"METAL BUILD FREEDOM GUNDAM"</a>. Gundamplanet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">12 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=METAL+BUILD+FREEDOM+GUNDAM&amp;rft.pub=Gundamplanet.com&amp;rft_id=http%3A%2F%2Fwww.gundamplanet.com%2Fmetal-build-freedom-gundam.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Nekkei BP mook, Otona no Gundamu Perfect (Gundam for Adult's Perfect), Business &amp; History+Character+Mechanic, Nekkei Entertainment, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-4-8222-6317-1" title="Special:BookSources/978-4-8222-6317-1">978-4-8222-6317-1</a></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/world/asia-pacific/7029685.stm">"Japanese workers in Wikipedia row"</a>. <i><a href="/wiki/BBC_News_Online" title="BBC News Online">BBC News Online</a></i>. October 5, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-10-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News+Online&amp;rft.atitle=Japanese+workers+in+Wikipedia+row&amp;rft.date=2007-10-05&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fworld%2Fasia-pacific%2F7029685.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGundam" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gundam&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Gundam" class="extiw" title="q:Special:Search/Gundam">Gundam</a></b></i></td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-wid,th="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Gundam" class="extiw" title="commons:Category:Gundam"><span style="">Gundam</span></a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://en.gundam.info/">Official <i>Gundam</i> website</a></li>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Arts/Animation/Anime/Titles/G/Gundam/"><i>Gundam</i></a> at <a href="/wiki/Curlie" class="mw-redirect" title="Curlie">Curlie</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4189"><i>Gundam</i></a> (anime) at <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>'s encyclopedia</li>
+<li><a rel="nofollow" class="external text" href="http://www.mahq.net/animation/gundam/gundam.htm"><i>Gundam</i></a> at the Mecha Anime Headquarters website'</li>
+<li><a rel="nofollow" class="external text" href="http://pgdp.channel.or.jp/"><i>Gundam</i> Perfect Games</a> <span class="languageicon">(in Japanese)</span></li>
+<li><a rel="nofollow" class="external text" href="https://www.bandaivisual.co.jp/gundamdvd/">Bandai Visual's Gundam minisite</a> <span class="languageicon">(in Japanese)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Gundam" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gundam" title="Template:Gundam"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gundam" title="Template talk:Gundam"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gundam&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gundam" style="font-size:114%;margin:0 4em"><i><a class="mw-selflink selflink">Gundam</a></i></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">TV series</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></i> (1979)</li>
+<li><i><a href="/wiki/Mobile_Suit_Zeta_Gundam" title="Mobile Suit Zeta Gundam">Zeta Gundam</a></i> (1985)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_ZZ" title="Mobile Suit Gundam ZZ">Gundam ZZ</a></i> (1986)</li>
+<li><i><a href="/wiki/Mobile_Suit_Victory_Gundam" title="Mobile Suit Victory Gundam">Victory Gundam</a></i> (1993)</li>
+<li><i><a href="/wiki/Mobile_Fighter_G_Gundam" title="Mobile Fighter G Gundam">G Gundam</a></i> (1994)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Wing" title="Mobile Suit Gundam Wing">Gundam Wing</a></i> (1995)</li>
+<li><i><a href="/wiki/After_War_Gundam_X" title="After War Gundam X">Gundam X</a></i> (1996)</li>
+<li><i><a href="/wiki/Turn_A_Gundam" title="Turn A Gundam">Turn A Gundam</a></i> (1999)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED" title="Mobile Suit Gundam SEED">Gundam SEED</a></i> (2002)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny" title="Mobile Suit Gundam SEED Destiny">Gundam SEED Destiny</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_00" title="Mobile Suit Gundam 00">Gundam 00</a></i> (2007)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_AGE" title="Mobile Suit Gundam AGE">Gundam AGE</a></i> (2011)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Build Fighters</a></i> (2013)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam-san" title="Mobile Suit Gundam-san">Gundam-san</a></i> (2014)</li>
+<li><i><a href="/wiki/Gundam_Reconguista_in_G" title="Gundam Reconguista in G">Reconguista in G</a></i> (2014)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters_Try" title="Gundam Build Fighters Try">Build Fighters Try</a></i> (2014)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Iron-Blooded_Orphans" title="Mobile Suit Gundam: Iron-Blooded Orphans">Iron-Blooded Orphans</a></i> (2015)</li>
+<li><i><a href="/wiki/Gundam_Build_Divers" title="Gundam Build Divers">Build Divers</a></i> (2018)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Films</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mobile_Suit_Gundam:_Char%27s_Counterattack" title="Mobile Suit Gundam: Char&#39;s Counterattack">Char's Counterattack</a></i> (1988)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_F91" title="Mobile Suit Gundam F91">Gundam F91</a></i> (1991)</li>
+<li><i>Gundam: Mission to the Rise</i> (1998)</li>
+<li><i><a href="/wiki/G-Saviour" title="G-Saviour">G-Saviour</a></i> (2000 live action film)</li>
+<li><i>Gundam Neo Experience 0087: Green Divers</i> (2001)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_00_the_Movie:_A_Wakening_of_the_Trailblazer" title="Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer">Gundam 00: A Wakening of the Trailblazer</a></i> (2010)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Narrative" title="Mobile Suit Gundam Narrative">Gundam Narrative</a></i> (2018)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Hathaway%27s_Flash" title="Mobile Suit Gundam: Hathaway&#39;s Flash">Hathaway's Flash</a></i> (2020)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">OVA/ONA</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mobile_Suit_Gundam_0080:_War_in_the_Pocket" title="Mobile Suit Gundam 0080: War in the Pocket">0080: War in the Pocket</a></i> (1989)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory" title="Mobile Suit Gundam 0083: Stardust Memory">0083: Stardust Memory</a></i> (1991)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team" title="Mobile Suit Gundam: The 08th MS Team">The 08th MS Team</a></i> (1996)</li>
+<li><i><a href="/wiki/Gundam_Wing:_Endless_Waltz" title="Gundam Wing: Endless Waltz">Gundam Wing: Endless Waltz</a></i> (1997)</li>
+<li><i><a href="/wiki/Gundam_Evolve" title="Gundam Evolve">Gundam Evolve</a></i> (2001)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Astray" title="Mobile Suit Gundam SEED Astray">Mobile Suit Gundam SEED MSV Astray</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">MS IGLOO</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_C.E._73:_Stargazer" title="Mobile Suit Gundam SEED C.E. 73: Stargazer">Gundam SEED C.E. 73: Stargazer</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Unicorn" title="Mobile Suit Gundam Unicorn">Gundam Unicorn</a></i> (2010)</li>
+<li><i><a href="/wiki/Model_Suit_Gunpla_Builders_Beginning_G" title="Model Suit Gunpla Builders Beginning G">Gunpla Builders Beginning G</a></i> (2010)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_Origin" title="Mobile Suit Gundam: The Origin">Gundam The Origin</a></i> (2015)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Thunderbolt" title="Mobile Suit Gundam Thunderbolt">Gundam Thunderbolt</a></i> (2015)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters_Try" title="Gundam Build Fighters Try">Gundam Build Fighters Try: Island Wars</a></i> (2016)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Twilight_AXIS" title="Mobile Suit Gundam: Twilight AXIS">Mobile Suit Gundam: Twilight AXIS</a></i> (2017)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters Battlogue</a></i> (2017)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters: GM's Counterattack</a></i> (2017)</li>
+<li><i><a href="/wiki/Gundam_Build_Divers" title="Gundam Build Divers">Gundam Build Divers: Prologue</a></i> (2018)</li>
+<li><i><a href="/wiki/Gundam_Build_Divers_Re:Rise" title="Gundam Build Divers Re:Rise">Gundam Build Divers Re:Rise</a></i> (2019)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Gundam_manga_and_novels" title="List of Gundam manga and novels">Novels and manga</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Plamo-Kyoshiro" title="Plamo-Kyoshiro">Plamo-Kyoshiro</a></i> (1982 manga)</li>
+<li><i><a href="/wiki/Gundam_Sentinel" title="Gundam Sentinel">Gundam Sentinel</a></i> (1987 novel)</li>
+<li><i><a href="/wiki/Gaia_Gear" title=,"Gaia Gear">Gaia Gear</a></i> (1987 novel)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Hathaway%27s_Flash" title="Mobile Suit Gundam: Hathaway&#39;s Flash">Mobile Suit Gundam: Hathaway's Flash</a></i> (1989 novel)</li>
+<li><i><a href="/wiki/Mobile_Suit_Crossbone_Gundam" title="Mobile Suit Crossbone Gundam">Crossbone Gundam</a></i> (1994 manga)</li>
+<li><i><a href="/wiki/New_Mobile_Report_Gundam_Wing_Dual_Story:_G-Unit" title="New Mobile Report Gundam Wing Dual Story: G-Unit">New Mobile Report Gundam Wing Dual Story: G-Unit</a></i> (1997 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Blue_Destiny" title="Mobile Suit Gundam: Blue Destiny">Blue Destiny</a></i> (1997 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Wing:_Episode_Zero" title="Mobile Suit Gundam Wing: Episode Zero">Mobile Suit Gundam Wing: Episode Zero</a></i> (1997 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam-san" title="Mobile Suit Gundam-san">Gundam-san</a></i> (2001 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Lost_War_Chronicles" title="Mobile Suit Gundam: Lost War Chronicles">Mobile Suit Gundam: Lost War Chronicles</a></i> (2002 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_%C3%89cole_du_Ciel" title="Mobile Suit Gundam École du Ciel">École du Ciel</a></i> (2002 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_Origin" title="Mobile Suit Gundam: The Origin">Gundam The Origin</a></i> (2002 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Astray" title="Mobile Suit Gundam SEED Astray">Gundam SEED Astray</a></i> (2002 manga)</li>
+<li><i><a href="/wiki/Gundam_Thoroughbred" title="Gundam Thoroughbred">Gundam Thoroughbred</a></i> (2003 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny_Astray" title="Mobile Suit Gundam SEED Destiny Astray">Gundam SEED Destiny Astray</a></i> (2004 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_C.E._73_%CE%94_Astray" title="Mobile Suit Gundam SEED C.E. 73 Δ Astray">Gundam SEED C.E. 73 Δ Astray</a></i> (2006 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Alive" title="Mobile Suit Gundam Alive">Gundam Alive</a></i> (2006 manga)</li>
+<li><i><a href="/wiki/Respect_Gundam" title="Respect Gundam">Respect Gundam</a></i> (2006 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Unicorn" title="Mobile Suit Gundam Unicorn">Gundam Unicorn</a></i> (2007 novel)</li>
+<li><i><a href="/wiki/New_Mobile_Report_Gundam_Wing:_Frozen_Teardrop" title="New Mobile Report Gundam Wing: Frozen Teardrop">New Mobile Report Gundam Wing: Frozen Teardrop</a></i> (2010 novel)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Thunderbolt" title="Mobile Suit Gundam Thunderbolt">Gundam Thunderbolt</a></i> (2012 manga)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Twilight_AXIS" title="Mobile Suit Gundam: Twilight AXIS">Mobile Suit Gundam: Twilight AXIS</a></i> (2016 web novel)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Music</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ai_Senshi_Z%C3%97R" title="Ai Senshi Z×R">Ai Senshi Z×R</a></i></li>
+<li><i><a href="/wiki/I,_Senshi:_Ai_Senshi_Tribute" title="I, Senshi: Ai Senshi Tribute">I, Senshi: Ai Senshi Tribute</a></i></li>
+<li><i><a href="/wiki/Gundam_Tribute_from_Lantis" title="Gundam Tribute from Lantis">Gundam Tribute from Lantis</a></i></li>
+<li><i><a href="/wiki/Gundam_Rock" title="Gundam Rock">Gundam Rock</a></i></li>
+<li><i><a href="/wiki/NT_Gundam_Cover" title="NT Gundam Cover">NT Gundam Cover</a></i></li>
+<li><i><a href="/wiki/Gundam_Song_Covers" title="Gundam Song Covers">Gundam Song Covers</a></i></li>
+<li><i><a href="/wiki/Gundam_Song_Covers_2" title="Gundam Song Covers 2">Gundam Song Covers 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Singles</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Mizu_no_Hoshi_e_Ai_wo_Komete" title="Mizu no Hoshi e Ai wo Komete">Mizu no Hoshi e Ai wo Komete</a>"</li>
+<li>"<a href="/wiki/Beyond_the_Time" title="Beyond the Time">Beyond the Time</a>"</li>
+<li>"<a href="/wiki/Eternal_Wind" title="Eternal Wind">Eternal Wind</a>"</li>
+<li>"<a href="/wiki/Just_Communication" title="Just Communication">Just Communication</a>"</li>
+<li>"<a href="/wiki/RE:I_AM" title="RE:I AM">RE:I AM</a>"</li>
+<li>"<a href="/wiki/StarRingChild" title="StarRingChild">StarRingChild</a>"</li>
+<li><a href="/wiki/Music_of_Mobile_Suit_Gundam_Wing" title="Music of Mobile Suit Gundam Wing">Music of <i>Gundam Wing</i></a></li>
+<li><a href="/wiki/Music_of_Mobile_Suit_Gundam_SEED" title="Music of Mobile Suit Gundam SEED">Music of <i>Gundam SEED</i></a></li>
+<li><a href="/wiki/Music_of_Mobile_Suit_Gundam_00" title="Music of Mobile Suit Gundam 00">Music of <i>Gundam 00</i></a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Characters</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Mobile_Suit_Gundam_characters" title="List of Mobile Suit Gundam characters">Original series</a></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Zeta_Gundam_characters" title="List of Mobile Suit Zeta Gundam characters">Zeta Gundam</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam_ZZ_characters" title="List of Mobile Suit Gundam ZZ characters">Gundam ZZ</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Victory_Gundam_characters" title="List of Mobile Suit Victory Gundam characters">Victory Gundam</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Fighter_G_Gundam_characters" title="List of Mobile Fighter G Gundam characters">G Gundam</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam_Wing_characters" title="List of Mobile Suit Gundam Wing characters">Gundam Wing</a></i></li>
+<li><i><a href="/wiki/List_of_After_War_Gundam_X_characters" title="List of After War Gundam X characters">Gundam X</a></i></li>
+<li><i><a href="/wiki/List_of_Turn_A_Gundam_characters" title="List of Turn A Gundam characters">Turn A Gundam</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam_SEED_characters" title="List of Mobile Suit Gundam SEED characters">Gundam SEED</a></i></li>
+<li><i><a ,href="/wiki/List_of_Mobile_Suit_Gundam_SEED_Astray_characters" title="List of Mobile Suit Gundam SEED Astray characters">Gundam SEED Astray</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam_00_characters" title="List of Mobile Suit Gundam 00 characters">Gundam 00</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam_Unicorn_characters" title="List of Mobile Suit Gundam Unicorn characters">Gundam Unicorn</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam_AGE_characters" title="List of Mobile Suit Gundam AGE characters">Gundam AGE</a></i></li>
+<li><i><a href="/wiki/List_of_Gundam_Build_Fighters_characters" title="List of Gundam Build Fighters characters">Gundam Build Fighters</a></i></li>
+<li><i><a href="/wiki/List_of_Gundam_Build_Fighters_Try_characters" title="List of Gundam Build Fighters Try characters">Gundam Build Fighters Try</a></i></li>
+<li><i><a href="/wiki/List_of_Mobile_Suit_Gundam:_Iron-Blooded_Orphans_characters" title="List of Mobile Suit Gundam: Iron-Blooded Orphans characters">Gundam: Iron-Blooded Orphans</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mobile weapons</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gundam_(fictional_robot)" title="Gundam (fictional robot)">RX-78-2 Gundam</a></li>
+<li><a href="/wiki/Gundam_Mk-II" title="Gundam Mk-II">Gundam Mk-II</a></li>
+<li><a href="/wiki/Zaku" title="Zaku">Zaku</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Universal_Century_technology" class="mw-redirect" title="Universal Century technology">Universal Century technology</a></li>
+<li><a href="/wiki/Gundam_model" title="Gundam model">Models</a></li>
+<li><a href="/wiki/List_of_Gundam_video_games" title="List of Gundam video games">Video games</a></li>
+<li><i><a href="/wiki/Gundam_Ace" title="Gundam Ace">Gundam Ace</a></i></li>
+<li><i><a href="/wiki/Battle_Soccer:_Field_no_Hasha" title="Battle Soccer: Field no Hasha">Battle Soccer: Field no Hasha</a></i></li>
+<li><a href="/wiki/SD_Gundam" title="SD Gundam">SD Gundam</a></li>
+<li><a href="/wiki/Gundam_War_Collectible_Card_Game" title="Gundam War Collectible Card Game">Gundam War Collectible Card Game</a></li>
+<li><a href="/wiki/Cultural_impact_of_Gundam" title="Cultural impact of Gundam">Cultural impact</a></li>
+<li><a href="/wiki/Statue_of_Unicorn_Gundam" title="Statue of Unicorn Gundam">Statue of Unicorn Gundam</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Gundam" title="Book:Gundam">Book</a></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Gundam" title="Category:Gundam">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Sunrise" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sunrise" title="Template:Sunrise"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sunrise" title="Template talk:Sunrise"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Sunrise&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Sunrise" style="font-size:114%;margin:0 4em"><a href="/wiki/Sunrise_(company)" title="Sunrise (company)">Sunrise</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1970s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Hazedon" title="Hazedon">Hazedon</a></i> (1972–1973)</li>
+<li><i><a href="/wiki/Zero_Tester" title="Zero Tester">Zero Tester</a></i> (1973–1974)</li>
+<li><i><a href="/wiki/La_Seine_no_Hoshi" title="La Seine no Hoshi">La Seine no Hoshi</a></i> (1975)</li>
+<li><i><a href="/wiki/Brave_Raideen" title="Brave Raideen">Brave Raideen</a></i> (1975–1976)</li>
+<li><i><a href="/wiki/Kum-Kum" title="Kum-Kum">Kum-Kum</a></i> (1975–1976)</li>
+<li><i><a href="/wiki/Ch%C5%8Ddenji_Robo_Combattler_V" title="Chōdenji Robo Combattler V">Chōdenji Robo Combattler V</a></i> (1976–1977)</li>
+<li><i>Dinosaur Expedition Born Free</i> (1976–1977)</li>
+<li><i>Robot Child Beeton</i> (1976–1977)</li>
+<li><i><a href="/wiki/Voltes_V" title="Voltes V">Chōdenji Machine Voltes V</a></i> (1977–1978)</li>
+<li><i><a href="/wiki/Invincible_Super_Man_Zambot_3" title="Invincible Super Man Zambot 3">Invincible Super Man Zambot 3</a></i> (1977–1978)</li>
+<li><i><a href="/wiki/Majokko_Tickle" title="Majokko Tickle">Majokko Tickle</a></i> (1978–1979)</li>
+<li><i><a href="/wiki/T%C5%8Dsh%C5%8D_Daimos" title="Tōshō Daimos">Tōshō Daimos</a></i> (1978–1979)</li>
+<li><i><a href="/wiki/Invincible_Steel_Man_Daitarn_3" title="Invincible Steel Man Daitarn 3">Invincible Steel Man Daitarn 3</a></i> (1978–1979)</li>
+<li><i><a href="/wiki/Cyborg_009" title="Cyborg 009">Cyborg 009</a></i> (1979–1980)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></i> (1979–1980)</li>
+<li><i><a href="/wiki/The_Ultraman" title="The Ultraman">The Ultraman</a></i> (1979–1980)</li>
+<li><i>Scientific Adventure Team Tansar 5</i> (1979–1980)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1980s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Invincible_Robo_Trider_G7" title="Invincible Robo Trider G7">Invincible Robo Trider G7</a></i> (1980–1981)</li>
+<li><i><a href="/wiki/Space_Runaway_Ideon" title="Space Runaway Ideon">Space Runaway Ideon</a></i> (1980–1981)</li>
+<li><i>Strongest Robo Daiohja</i> (1981–1982)</li>
+<li><i><a href="/wiki/Fang_of_the_Sun_Dougram" title="Fang of the Sun Dougram">Fang of the Sun Dougram</a></i> (1981–1983)</li>
+<li><i><a href="/wiki/Combat_Mecha_Xabungle" title="Combat Mecha Xabungle">Combat Mecha Xabungle</a></i> (1982–1983)</li>
+<li><i><a href="/wiki/Aura_Battler_Dunbine" title="Aura Battler Dunbine">Aura Battler Dunbine</a></i> (1983–1984)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">Armored Trooper Votoms</a></i> (1983–1984)</li>
+<li><i><a href="/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam" title="Ginga Hyōryū Vifam">Ginga Hyōryū Vifam</a></i> (1983–1984)</li>
+<li><i><a href="/wiki/Heavy_Metal_L-Gaim" title="Heavy Metal L-Gaim">Heavy Metal L-Gaim</a></i> (1984–1985)</li>
+<li><i><a href="/wiki/Giant_Gorg" title="Giant Gorg">Giant Gorg</a></i> (1984)</li>
+<li><i><a href="/wiki/Panzer_World_Galient" title="Panzer World Galient">Panzer World Galient</a></i> (1984–1985)</li>
+<li><i><a href="/wiki/Choriki_Robo_Galatt" title="Choriki Robo Galatt">Choriki Robo Galatt</a></i> (1984–1985)</li>
+<li><i><a href="/wiki/Mobile_Suit_Zeta_Gundam" title="Mobile Suit Zeta Gundam">Mobile Suit Zeta Gundam</a></i> (1985–1986)</li>
+<li><i><a href="/wiki/Dirty_Pair" title="Dirty Pair">Dirty Pair</a></i> (1985)</li>
+<li><i><a href="/wiki/Blue_Comet_SPT_Layzner" title="Blue Comet SPT Layzner">Blue Comet SPT Layzner</a></i> (1985–1986)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_ZZ" title="Mobile Suit Gundam ZZ">Mobile Suit Gundam ZZ</a></i> (1986–1987)</li>
+<li><i><a href="/wiki/Metal_Armor_Dragonar" title="Metal Armor Dragonar">Metal Armor Dragonar</a></i> (1987–1988)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter</a></i> (1987–1988)</li>
+<li><i><a href="/wiki/Mister_Ajikko" title="Mister Ajikko">Mister Ajikko</a></i> (1987–1989)</li>
+<li><i><a href="/wiki/Mashin_Hero_Wataru" title="Mashin Hero Wataru">Mashin Hero Wataru</a></i> (1988–1989)</li>
+<li><i><a href="/wiki/Ronin_Warriors" title="Ronin Warriors">Ronin Warriors</a></i> (1988–1989)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter 2</a></i> (1988–1989)</li>
+<li><i><a href="/wiki/Jushin_Liger_(anime)" class="mw-redirect" title="Jushin Liger (anime)">Jushin Liger</a></i> (1989–1990)</li>
+<li><i><a href="/wiki/Mad%C3%B6_King_Granz%C3%B6rt" title="Madö King Granzört">Madö King Granzört</a></i> (1989–1990)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter 3</a></i> (1989–1990)</li>
+<li><i><a href="/wiki/Patlabor:_The_TV_Series" title="Patlabor: The TV Series">Patlabor: The TV Series</a></i> (1989–1990)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1990s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Brave_Exkaiser" title="Brave Exkaiser">Brave Exkaiser</a></i> (1990–1991)</li>
+<li><i><a href="/wiki/Mashin_Hero_Wataru" title="Mashin Hero Wataru">Mashin Hero Wataru 2</a></i> (1990–1991)</li>
+<li><i><a href="/wiki/The_Brave_Fighter_of_Sun_Fighbird" title="The Brave Fighter of Sun Fighbird">The Brave Fighter of Sun Fighbird</a></i> (1991–1992)</li>
+<li><i><a href="/wiki/Future_GPX_Cyber_Formula" title="Future GPX Cyber Formula">Future GPX Cyber Formula</a></i> (1991)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter '91</a></i> (1991)</li>
+<li><i><a href="/wiki/Armored_Police_Metal_Jack" title="Armored Police Metal Jack">Armored Police Metal Jack</a></i> (1991)</li>
+<li><i><a href="/wiki/Matchless_Raijin-Oh" title="Matchless Raijin-Oh">Matchless Raijin-Oh</a></i> (1991–1992)</li>
+<li><i><a href="/wiki/Mama_wa_Sh%C5%8Dgaku_4_Nensei" title="Mama wa Shōgaku 4 Nensei">Mama is a 4th Grader</a></i> (1992)</li>
+<li><i><a href="/wiki/The_Brave_Fighter_of_Legend_Da-Garn" title="The Brave Fighter of Legend Da-Garn">The Brave Fighter of Legend Da-Garn</a></i> (1992–1993)</li>
+<li><i><a href="/wiki/Genki_Bakuhatsu_Ganbaruger" title="Genki Bakuhatsu Ganbaruger">Genki Bakuhatsu Ganbaruger</a></i> (1992–1993)</li>
+<li><i><a href="/wiki/The_Brave_Express_Might_Gaine" title="The Brave Express Might Gaine">The Brave Express Might Gaine</a></i> (1993–1994)</li>
+<li><i><a href="/wiki/Nekketsu_Saiky%C5%8D_Go-Saurer" title="Nekketsu Saikyō Go-Saurer">Nekketsu Saikyō Go-Saurer</a></i> (1993–1994)</li>
+<li><i><a href="/wiki/Mobile_Suit_Victory_Gundam" title="Mobile Suit Victory Gundam">Mobile Suit Victory Gundam</a></i> (1993–1994)</li>
+<li><i><a href="/wiki/Shipp%C5%AB!_Iron_Leaguer" title="Shippū! Iron Leaguer">Shippū! Iron Leaguer</a></i> (1993–1994)</li>
+<li><i><a href="/wiki/Brave_Police_J-Decker" title="Brave Police J-Decker">Brave Police J-Decker</a></i> (1994–1995)</li>
+<li><i><a href="/wiki/Ha%C5%8D_Taikei_Ry%C5%AB_Knight" title="Haō Taikei Ryū Knight">Haō Taikei Ryū Knight</a></i> (1994–1995)</li>
+<li><i><a href="/wiki/Mobile_Fighter_G_Gundam" title="Mobile Fighter G Gundam">Mobile Fighter G Gundam</a></i> (1994–1995)</li>
+<li><i><a href="/wiki/The_Brave_of_Gold_Goldran" title="The Brave of Gold Goldran">The Brave of Gold Goldran</a></i> (1995–1996)</li>
+<li><i><a href="/wiki/Wild_Knights_Gulkeeva" title="Wild Knights Gulkeeva">Wild Knights Gulkeeva</a></i> (1995)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Wing" title="Mobile Suit Gundam Wing">Mobile Suit Gundam Wing</a></i> (1995–1996)</li>
+<li><i><a href="/wiki/Brave_Command_Dagwon" title="Brave Command Dagwon">Brave Command Dagwon</a></i> (1996–1997)</li>
+<li><i><a href="/wiki/The_Vision_of_Escaflowne" title="The Vision of Escaflowne">The Vision of Escaflowne</a></i> (1996)</li>
+<li><i><a href="/wiki/After_War_Gundam_X" title="After War Gundam X">After War Gundam X</a></i> (1996)</li>
+<li><i><a href="/wiki/Ganba!_Fly_High" title="Ganba! Fly High">Ganbarist! Shun</a></i> (1996–1997)</li>
+<li><i><a href="/wiki/Brave_Raideen" title="Brave Raideen">Raideen the Superior</a></i> (1996–1997)</li>
+<li><i><a href="/wiki/The_King_of_Braves_GaoGaiGar" title="The King of Braves GaoGaiGar">The King of Braves GaoGaiGar</a></i> (1997–1998)</li>
+<li><i><a href="/wiki/Mashin_Hero_Wataru" title="Mashin Hero Wataru">Ultra Mashin Hero Wataru</a></i> (1997–1998)</li>
+<li><i><a href="/wiki/Outlaw_Star" title="Outlaw Star">Outlaw Star</a></i> (1998)</li>
+<li><i><a href="/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam" title="Ginga Hyōryū Vifam">Ginga Hyōryū Vifam 13</a></i> (1998)</li>
+<li><i><a href="/wiki/Sentimental_Graffiti" title="Sentimental Graffiti">Sentimental Journey</a></i> (1998)</li>
+<li><i><a href="/wiki/Brain_Powerd" title="Brain Powerd">Brain Powerd</a></i> (1998)</li>
+<li><i><a href="/wiki/DT_Eightron" title="DT Eightron">DT Eightron</a></i> (1998)</li>
+<li><i><a href="/wiki/Gasaraki" title="Gasaraki">Gasaraki</a></i> (1998–1999)</li>
+<li><i><a href="/wiki/Cowboy_Bebop" title="Cowboy Bebop">Cowboy Bebop</a></i> (1998–1999)</li>
+<li><i><a href="/wiki/Crest_of_the_Stars" title="Crest of the Stars">Crest of the Stars</a></i> (1999)</li>
+<li><i><a href="/wiki/Space_Pirate_Mito" title="Space Pirate Mito">Space Pirate Mito</a></i> (1999)</li>
+<li><i><a href="/wiki/Aesop_World" title="Aesop World">Aesop World</a></i> (1999)</li>
+<li><i><a href="/wiki/Angel_Links" title="Angel Links">Angel Links</a></i> (1999)</li>
+<li><i><a href="/wiki/Betterman_(TV_series)" title="Betterman (TV series)">Betterman</a></i> (1999)</li>
+<li><i><a href="/wiki/Turn_A_Gundam" title="Turn A Gundam">Turn A Gundam</a></i> (1999–2000)</li>
+<li><i><a href="/wiki/Seraphim_Call" title="Seraphim Call">Seraphim Call</a></i> (1999)</li>
+<li><i><a href="/wiki/The_Big_O" title="The Big O">The Big O</a></i> (1999–2000)</li>
+<li><i><a href="/wiki/Infinite_Ryvius" title="Infinite Ryvius">Infinite Ryvius</a></i> (1999–2000)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2000s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mighty_Cat_Masked_Niyander" title="Mighty Cat Masked Niyander">Mighty Cat Masked Niyander</a></i> (2000–2001)</li>
+<li><i><a href="/wiki/Banner_of_the_Stars" title="Banner of the Stars">Banner of the Stars</a></i> (2000)</li>
+<li><i><a href="/wiki/Dinozaurs" title="Dinozaurs">Dinozaurs: The Series</a></i> (2000)</li>
+<li><i><a href="/wiki/Brigadoon:_Marin_%26_Melan" title=,"Brigadoon: Marin &amp; Melan">Brigadoon: Marin &amp; Melan</a></i> (2000–2001)</li>
+<li><i><a href="/wiki/Argento_Soma" title="Argento Soma">Argento Soma</a></i> (2000–2001)</li>
+<li><i><a href="/wiki/Gear_Fighter_Dendoh" title="Gear Fighter Dendoh">Gear Fighter Dendoh</a></i> (2000–2001)</li>
+<li><i><a href="/wiki/Inuyasha" title="Inuyasha">Inuyasha</a></i> (2000–2004)</li>
+<li><i><a href="/wiki/Z.O.E._Dolores,_I" title="Z.O.E. Dolores, I">Z.O.E. Dolores, I</a></i> (2001)</li>
+<li><i><a href="/wiki/Banner_of_the_Stars" title="Banner of the Stars">Banner of the Stars II</a></i> (2001)</li>
+<li><i><a href="/wiki/S-CRY-ed" title="S-CRY-ed">s-CRY-ed</a></i> (2001)</li>
+<li><i><a href="/wiki/Crush_Gear_Turbo" title="Crush Gear Turbo">Crush Gear Turbo</a></i> (2001–2003)</li>
+<li><i><a href="/wiki/Witch_Hunter_Robin" title="Witch Hunter Robin">Witch Hunter Robin</a></i> (2002)</li>
+<li><i><a href="/wiki/Overman_King_Gainer" title="Overman King Gainer">Overman King Gainer</a></i> (2002–2003)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED" title="Mobile Suit Gundam SEED">Mobile Suit Gundam SEED</a></i> (2002–2003)</li>
+<li><i><a href="/wiki/The_Big_O" title="The Big O">The Big O II</a></i> (2003)</li>
+<li><i><a href="/wiki/Machine_Robo_Rescue" title="Machine Robo Rescue">Machine Robo Rescue</a></i> (2003–2004)</li>
+<li><i><a href="/wiki/Crush_Gear_Turbo" title="Crush Gear Turbo">Crush Gear Nitro</a></i> (2003–2004)</li>
+<li><i><a href="/wiki/Tank_Knights_Fortress" title="Tank Knights Fortress">Tank Knights Fortress</a></i> (2003–2004)</li>
+<li><i><a href="/wiki/Planetes" title="Planetes">Planetes</a></i> (2003–2004)</li>
+<li><i><a href="/wiki/Superior_Defender_Gundam_Force" title="Superior Defender Gundam Force">Superior Defender Gundam Force</a></i> (2004)</li>
+<li><i><a href="/wiki/Kaiketsu_Zorori" title="Kaiketsu Zorori">Kaiketsu Zorori</a></i> (2004–2005)</li>
+<li><i><a href="/wiki/Sgt._Frog" title="Sgt. Frog">Sgt. Frog</a></i> (2004–2011)</li>
+<li><i><a href="/wiki/My-HiME" title="My-HiME">My-HiME</a></i> (2004–2005)</li>
+<li><i><a href="/wiki/Onmy%C5%8D_Taisenki" title="Onmyō Taisenki">Onmyō Taisenki</a></i> (2004–2005)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny" title="Mobile Suit Gundam SEED Destiny">Mobile Suit Gundam SEED Destiny</a></i> (2004–2005)</li>
+<li><i><a href="/wiki/Yakitate!!_Japan" title="Yakitate!! Japan">Yakitate!! Japan</a></i> (2004–2006)</li>
+<li><i><a href="/wiki/Kaiketsu_Zorori" title="Kaiketsu Zorori">Majime ni Fumajime Kaiketsu Zorori</a></i> (2005–2007)</li>
+<li><i><a href="/wiki/The_King_of_Braves_GaoGaiGar_Final" title="The King of Braves GaoGaiGar Final">GaoGaiGar Final -Grand Glorious Gathering-</a></i> (2005)</li>
+<li><i><a href="/wiki/Cluster_Edge" title="Cluster Edge">Cluster Edge</a></i> (2005–2006)</li>
+<li><i><a href="/wiki/My-Otome" title="My-Otome">My-Otome</a></i> (2005–2006)</li>
+<li><i><a href="/wiki/Zegapain" title="Zegapain">Zegapain</a></i> (2006)</li>
+<li><i><a href="/wiki/Gin_Tama" title="Gin Tama">Gin Tama</a></i> (2006–2010)</li>
+<li><i><a href="/wiki/Intrigue_in_the_Bakumatsu_%E2%80%93_Irohanihoheto" title="Intrigue in the Bakumatsu – Irohanihoheto">Intrigue in the Bakumatsu – Irohanihoheto</a></i> (2006–2007)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Lelouch of the Rebellion</a></i> (2006–2007)</li>
+<li><i><a href="/wiki/Kekkaishi" title="Kekkaishi">Kekkaishi</a></i> (2006–2008)</li>
+<li><i><a href="/wiki/Dinosaur_King" title="Dinosaur King">Dinosaur King</a></i> (2007–2008)</li>
+<li><i><a href="/wiki/Idolmaster:_Xenoglossia" title="Idolmaster: Xenoglossia">Idolmaster: Xenoglossia</a></i> (2007)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_00" title="Mobile Suit Gundam 00">Mobile Suit Gundam 00</a></i> (2007–2008)</li>
+<li><i><a href="/wiki/Dinosaur_King" title="Dinosaur King">Dinosaur King D-Kids Adventure: Pterosaur Legend</a></i> (2008)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Lelouch of the Rebellion R2</a></i> (2008)</li>
+<li><i><a href="/wiki/Battle_Spirits:_Shounen_Toppa_Bashin" title="Battle Spirits: Shounen Toppa Bashin">Battle Spirits: Shounen Toppa Bashin</a></i> (2008–2009)</li>
+<li><i><a href="/wiki/Tales_of_the_Abyss" title="Tales of the Abyss">Tales of the Abyss</a></i> (2008–2009)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_00" title="Mobile Suit Gundam 00">Mobile Suit Gundam 00 Second Season</a></i> (2008–2009)</li>
+<li><i><a href="/wiki/The_Girl_Who_Leapt_Through_Space" title="The Girl Who Leapt Through Space">The Girl Who Leapt Through Space</a></i> (2009)</li>
+<li><i><a href="/wiki/Black_God_(manga)" title="Black God (manga)">Black God</a></i> (2009)</li>
+<li><i>Battle Spirits: Shounen Gekiha Dan</i> (2009–2010)</li>
+<li><i><a href="/wiki/Inuyasha" title="Inuyasha">Inuyasha: The Final Act</a></i> (2009–2010)</li>
+<li><i><a href="/wiki/Hipira" title="Hipira">Hipira</a></i> (2009)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2010s</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors" title="SD Gundam Sangokuden Brave Battle Warriors">SD Gundam Sangokuden Brave Battle Warriors</a></i> (2010–2011)</li>
+<li><i>Battle Spirits: Brave</i> (2010–2011)</li>
+<li><i><a href="/wiki/Tiger_%26_Bunny" title="Tiger &amp; Bunny">Tiger &amp; Bunny</a></i> (2011)</li>
+<li><i><a href="/wiki/Gin_Tama" title="Gin Tama">Gintama'</a></i> (2011–2012)</li>
+<li><i><a href="/wiki/Sacred_Seven" title="Sacred Seven">Sacred Seven</a></i> (2011)</li>
+<li><i>Battle Spirits: Heroes</i> (2011–2012)</li>
+<li><i><a href="/wiki/Horizon_in_the_Middle_of_Nowhere" title="Horizon in the Middle of Nowhere">Horizon in the Middle of Nowhere</a></i> (2011)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_AGE" title="Mobile Suit Gundam AGE">Mobile Suit Gundam AGE</a></i> (2011–2012)</li>
+<li><i><a href="/wiki/Phi_Brain:_Puzzle_of_God" title="Phi Brain: Puzzle of God">Phi Brain: Puzzle of God</a></i> (2011–2014)</li>
+<li><i><a href="/wiki/Daily_Lives_of_High_School_Boys" title="Daily Lives of High School Boys">Daily Lives of High School Boys</a></i> (2012)</li>
+<li><i><a href="/wiki/Natsuiro_Kiseki" title="Natsuiro Kiseki">Natsuiro Kiseki</a></i> (2012)</li>
+<li><i><a href="/wiki/Accel_World" title="Accel World">Accel World</a></i> (2012)</li>
+<li><i><a href="/wiki/Good_Luck_Girl!" title="Good Luck Girl!">Good Luck Girl!</a></i> (2012)</li>
+<li><i><a href="/wiki/Horizon_in_the_Middle_of_Nowhere" title="Horizon in the Middle of Nowhere">Horizon in the Middle of Nowhere Season 2</a></i> (2012)</li>
+<li><i><a href="/wiki/Battle_Spirits:_Sword_Eyes" title="Battle Spirits: Sword Eyes">Battle Spirits: Sword Eyes</a></i> (2012–2013)</li>
+<li><i><a href="/wiki/Gin_Tama" title="Gin Tama">Gintama': Enchousen</a></i> (2012–2013)</li>
+<li><i><a href="/wiki/Aikatsu!" title="Aikatsu!">Aikatsu!</a></i> (2012–2015, <small>#1-126</small>)</li>
+<li><i><a href="/wiki/Love_Live!" title="Love Live!">Love Live!</a></i> (2013–2014)</li>
+<li><i><a href="/wiki/Valvrave_the_Liberator" title="Valvrave the Liberator">Valvrave the Liberator</a></i> (2013)</li>
+<li><i><a href="/wiki/Battle_Spirits:_Saikyou_Ginga_Ultimate_Zero" title="Battle Spirits: Saikyou Ginga Ultimate Zero">Battle Spirits: Saikyou Ginga Ultimate Zero</a></i> (2013–2014)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters</a></i> (2013–2014)</li>
+<li><i><a href="/wiki/Buddy_Complex" title="Buddy Complex">Buddy Complex</a></i> (2014)</li>
+<li><i><a href="/wiki/Sgt._Frog" title="Sgt. Frog">KERORO</a></i> (2014)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam-san" title="Mobile Suit Gundam-san">Mobile Suit Gundam-san</a></i> (2014)</li>
+<li><i><a href="/wiki/Buddy_Complex" title="Buddy Complex">Buddy Complex: The Final Chapter</a></i> (2014)</li>
+<li><i><a href="/wiki/Tribe_Cool_Crew" title="Tribe Cool Crew">Tribe Cool Crew</a></i> (2014–2015, <small>#1-24</small>)</li>
+<li><i><a href="/wiki/Gundam_Reconguista_in_G" title="Gundam Reconguista in G">Gundam Reconguista in G</a></i> (2014–2015)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters_Try" title="Gundam Build Fighters Try">Gundam Build Fighters Try</a></i> (2014–2015)</li>
+<li><i><a href="/wiki/Cross_Ange" title="Cross Ange">Cross Ange: Rondo of Angels and Dragons</a></i> (2014–2015)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Iron-Blooded_Orphans" title="Mobile Suit Gundam: Iron-Blooded Orphans">Mobile Suit Gundam: Iron-Blooded Orphans</a></i> (2015–2017)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Unicorn" title="Mobile Suit Gundam Unicorn">Mobile Suit Gundam Unicorn RE:0096</a></i> (2016)</li>
+<li><i><a href="/wiki/Love_Live!_Sunshine!!" title="Love Live! Sunshine!!">Love Live! Sunshine!!</a></i> (2016–2017)</li>
+<li><i><a href="/wiki/ClassicaLoid" title="ClassicaLoid">ClassicaLoid</a></i> (2016–2018)</li>
+<li><i><a href="/wiki/Magic-kyun_Renaissance" class="mw-redirect" title="Magic-kyun Renaissance">Magic-kyun Renaissance</a></i> (2016)</li>
+<li><i><a href="/wiki/Gundam_Build_Divers" title="Gundam Build Divers">Gundam Build Divers</a></i> (2018)</li>
+<li><i><a href="/wiki/Double_Decker!_Doug_%26_Kirill" title="Double Decker! Doug &amp; Ki,rill">Double Decker! Doug &amp; Kirill</a></i> (2018)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_Origin" title="Mobile Suit Gundam: The Origin">Mobile Suit Gundam: The Origin - Advent of the Red Comet</a></i> (2019)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2020s</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Wave,_Listen_to_Me!" title="Wave, Listen to Me!">Wave, Listen to Me!</a></i> (2020)</li>
+<li><i><a href="/wiki/King%27s_Raid" title="King&#39;s Raid">King's Raid: Heirs of the Will</a></i> (2020)</li>
+<li><i><a href="/wiki/Nijigasaki_High_School_Idol_Club" title="Nijigasaki High School Idol Club">Love Live! Nijigasaki High School Idol Club</a></i> (TBA)</li>
+<li><i><a href="/wiki/Inuyasha" title="Inuyasha">Yashahime: Princess Half-Demon</a></i> (TBA)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Films</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam</a></i> (1981)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam: Soldiers of Sorrow</a></i> (1981)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam" title="Mobile Suit Gundam">Mobile Suit Gundam: Encounters in Space</a></i> (1982)</li>
+<li><i><a href="/wiki/Space_Runaway_Ideon" title="Space Runaway Ideon">The Ideon: A Contact</a></i> (1982)</li>
+<li><i><a href="/wiki/Space_Runaway_Ideon" title="Space Runaway Ideon">The Ideon: Be Invoked</a></i> (1982)</li>
+<li><i><a href="/wiki/Crusher_Joe" title="Crusher Joe">Crusher Joe</a></i> (1983)</li>
+<li><i><a href="/wiki/Fang_of_the_Sun_Dougram" title="Fang of the Sun Dougram">Dougram: Documentary of the Fang of the Sun</a></i> (1983)</li>
+<li><i><a href="/wiki/Fang_of_the_Sun_Dougram" title="Fang of the Sun Dougram">Choro-Q Dougram</a></i> (1983)</li>
+<li><i><a href="/wiki/Combat_Mecha_Xabungle" title="Combat Mecha Xabungle">Xabungle Graffiti</a></i> (1983)</li>
+<li><i><a href="/wiki/Arion_(manga)" title="Arion (manga)">Arion</a></i> (1986)</li>
+<li><i><a href="/wiki/Dirty_Pair:_Project_Eden" title="Dirty Pair: Project Eden">Dirty Pair: Project Eden</a></i> (1986)</li>
+<li><i><a href="/wiki/Bats_%26_Terry" title="Bats &amp; Terry">Bats &amp; Terry</a></i> (1987)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Char%27s_Counterattack" title="Mobile Suit Gundam: Char&#39;s Counterattack">Mobile Suit Gundam: Char's Counterattack</a></i> (1988)</li>
+<li><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">Mobile Suit SD Gundam</a></i> (1988)</li>
+<li><i><a href="/wiki/The_Five_Star_Stories" title="The Five Star Stories">The Five Star Stories</a></i> (1989)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter: .357 Magnum</a></i> (1989)</li>
+<li><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">Mobile Suit SD Gundam's Counterattack</a></i> (1989)</li>
+<li><i><a href="/wiki/Gunhed_(film)" title="Gunhed (film)">Gunhed</a></i> (1989)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_F91" title="Mobile Suit Gundam F91">Mobile Suit Gundam F91</a></i> (1991)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory" title="Mobile Suit Gundam 0083: Stardust Memory">Mobile Suit Gundam 0083: The Last Blitz of Zeon</a></i> (1992)</li>
+<li><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">Mobile Suit SD Gundam Festival</a></i> (1993)</li>
+<li><i><a href="/wiki/Gundam_Wing:_Endless_Waltz" title="Gundam Wing: Endless Waltz">Gundam Wing: Endless Waltz -Special Edition-</a></i> (1998)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team" title="Mobile Suit Gundam: The 08th MS Team">Mobile Suit Gundam: The 08th MS Team: Miller's Report</a></i> (1998)</li>
+<li><i><a href="/wiki/Firefighter!_Daigo_of_Fire_Company_M" title="Firefighter! Daigo of Fire Company M">Firefighter! Daigo of Fire Company M</a></i> (1999)</li>
+<li><i><a href="/wiki/Crest_of_the_Stars" title="Crest of the Stars">Crest of the Stars: SPECIAL</a></i> (2000)</li>
+<li><i><a href="/wiki/Escaflowne_(film)" title="Escaflowne (film)">Escaflowne: A Girl in Gaea</a></i> (2000)</li>
+<li><i><a href="/wiki/Banner_of_the_Stars" title="Banner of the Stars">Banner of the Stars: SPECIAL</a></i> (2001)</li>
+<li><i><a href="/wiki/Cowboy_Bebop:_The_Movie" title="Cowboy Bebop: The Movie">Cowboy Bebop: The Movie</a></i> (2001)</li>
+<li><i><a href="/wiki/Inuyasha_the_Movie:_Affections_Touching_Across_Time" title="Inuyasha the Movie: Affections Touching Across Time">Inuyasha the Movie: Affections Touching Across Time</a></i> (2001)</li>
+<li><i><a href="/wiki/Turn_A_Gundam" title="Turn A Gundam">Turn A Gundam: Earth Light</a></i> (2002)</li>
+<li><i><a href="/wiki/Turn_A_Gundam" title="Turn A Gundam">Turn A Gundam: Moonlight Butterfly</a></i> (2002)</li>
+<li><i><a href="/wiki/Crush_Gear_Turbo" title="Crush Gear Turbo">Crush Gear: Kaizaban's Challenge</a></i> (2002)</li>
+<li><i><a href="/wiki/Inuyasha_the_Movie:_The_Castle_Beyond_the_Looking_Glass" title="Inuyasha the Movie: The Castle Beyond the Looking Glass">Inuyasha the Movie: The Castle Beyond the Looking Glass</a></i> (2002)</li>
+<li><i><a href="/wiki/Inuyasha_the_Movie:_Swords_of_an_Honorable_Ruler" title="Inuyasha the Movie: Swords of an Honorable Ruler">Inuyasha the Movie: Swords of an Honorable Ruler</a></i> (2003)</li>
+<li><i><a href="/wiki/Steamboy" title="Steamboy">Steamboy</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED:_Special_Edition" title="Mobile Suit Gundam SEED: Special Edition">Mobile Suit Gundam SEED Special Edition: The Empty Battlefield</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED:_Special_Edition" title="Mobile Suit Gundam SEED: Special Edition">Mobile Suit Gundam SEED Special Edition: The Far-Away Dawn</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED:_Special_Edition" title="Mobile Suit Gundam SEED: Special Edition">Mobile Suit Gundam SEED Special Edition: The Rumbling Sky</a></i> (2004)</li>
+<li><i><a href="/wiki/Inuyasha_the_Movie:_Fire_on_the_Mystic_Island" title="Inuyasha the Movie: Fire on the Mystic Island">Inuyasha the Movie: Fire on the Mystic Island</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Zeta_Gundam" title="Mobile Suit Zeta Gundam">Mobile Suit Zeta Gundam A New Translation: Heirs to the Stars</a></i> (2005)</li>
+<li><i><a href="/wiki/Mobile_Suit_Zeta_Gundam" title="Mobile Suit Zeta Gundam">Mobile Suit Zeta Gundam A New Translation II: Lovers</a></i> (2005)</li>
+<li><i><a href="/wiki/Keroro_Guns%C5%8D_the_Super_Movie" ti,tle="Keroro Gunsō the Super Movie">Keroro Gunsō the Super Movie</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Zeta_Gundam" title="Mobile Suit Zeta Gundam">Mobile Suit Zeta Gundam A New Translation III: Love is the Pulse of the Stars</a></i> (2006)</li>
+<li><i><a href="/wiki/Kaiketsu_Zorori" title="Kaiketsu Zorori">Kaiketsu Zorori: The Battle for the Mysterious Treasure</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny:_Special_Edition" title="Mobile Suit Gundam SEED Destiny: Special Edition">Mobile Suit Gundam SEED Destiny Special Edition: The Shattered World</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny:_Special_Edition" title="Mobile Suit Gundam SEED Destiny: Special Edition">Mobile Suit Gundam SEED Destiny Special Edition: Their Respective Swords</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny:_Special_Edition" title="Mobile Suit Gundam SEED Destiny: Special Edition">Mobile Suit Gundam SEED Destiny Special Edition: Flames of Destiny</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny:_Special_Edition" title="Mobile Suit Gundam SEED Destiny: Special Edition">Mobile Suit Gundam SEED Destiny Special Edition: The Cost of Freedom</a></i> (2007)</li>
+<li><i><a href="/wiki/Ch%C5%8D_Gekij%C5%8Dban_Keroro_Guns%C5%8D_2:_Shinkai_no_Princess_de_Arimasu!" title="Chō Gekijōban Keroro Gunsō 2: Shinkai no Princess de Arimasu!">Keroro Gunsō the Super Movie 2: The Deep Sea Princess</a></i> (2007)</li>
+<li><i><a href="/wiki/Ch%C5%8D_Gekij%C5%8Dban_Keroro_Guns%C5%8D_2:_Shinkai_no_Princess_de_Arimasu!" title="Chō Gekijōban Keroro Gunsō 2: Shinkai no Princess de Arimasu!">Chibi Kero: Secret of the Kero Ball!?</a></i> (2007)</li>
+<li><i>SOS! Tokyo Metro Explorers: The Next</i> (2007)</li>
+<li><i><a href="/wiki/Keroro_Gunso_the_Super_Movie_3:_Keroro_vs._Keroro_Great_Sky_Duel" title="Keroro Gunso the Super Movie 3: Keroro vs. Keroro Great Sky Duel">Keroro Gunso the Super Movie 3: Keroro vs. Keroro Great Sky Duel</a></i> (2008)</li>
+<li><i><a href="/wiki/Keroro_Gunso_the_Super_Movie_3:_Keroro_vs._Keroro_Great_Sky_Duel" title="Keroro Gunso the Super Movie 3: Keroro vs. Keroro Great Sky Duel">Musha Kero: Debut! Sengoku Planet Ran Big Battle!!</a></i> (2008)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms:_Pailsen_Files" title="Armored Trooper Votoms: Pailsen Files">Armored Trooper VOTOMS: The Pailsen Files Movie</a></i> (2009)</li>
+<li><i><a href="/wiki/Keroro_Gunso_the_Super_Movie_4:_Gekishin_Dragon_Warriors" title="Keroro Gunso the Super Movie 4: Gekishin Dragon Warriors">Keroro Gunso the Super Movie 4: Gekishin Dragon Warriors</a></i> (2009)</li>
+<li><i><a href="/wiki/Keroro_Gunso_the_Super_Movie_4:_Gekishin_Dragon_Warriors" title="Keroro Gunso the Super Movie 4: Gekishin Dragon Warriors">Kero 0: Depart! Assembly of Everyone!!</a></i> (2009)</li>
+<li><i><a href="/wiki/Keroro_Gunso_the_Super_Movie:_Creation!_Ultimate_Keroro,_Wonder_Space-Time_Island" title="Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island">Keroro Gunso the Super Movie: Creation! Ultimate Keroro, Wonder Space-Time Island</a></i> (2010)</li>
+<li><i><a href="/wiki/SD_Gundam_Sangokuden_Brave_Battle_Warriors" title="SD Gundam Sangokuden Brave Battle Warriors">Chō Denei-ban SD Gundam Sangokuden Brave Battle Warriors</a></i> (2010)</li>
+<li><i><a href="/wiki/Gintama:_The_Movie" title="Gintama: The Movie">Gintama: The Movie</a></i> (2010)</li>
+<li><i><a href="/wiki/King_of_Thorn" title="King of Thorn">King of Thorn</a></i> (2010)</li>
+<li><i><a href="/wiki/Colorful_(film)" title="Colorful (film)">Colorful</a></i> (2010)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_00_the_Movie:_A_Wakening_of_the_Trailblazer" title="Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer">Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer</a></i> (2010)</li>
+<li><i><a href="/wiki/S-CRY-ed" title="S-CRY-ed">s-CRY-ed: Alteration TAO</a></i> (2011)</li>
+<li><i><a href="/wiki/Sacred_Seven" title="Sacred Seven">Sacred Seven: Wings of Gingetsu</a></i> (2012)</li>
+<li><i><a href="/wiki/S-CRY-ed" title="S-CRY-ed">s-CRY-ed: Alteration QUAN</a></i> (2012)</li>
+<li><i><a href="/wiki/Tiger_%26_Bunny" title="Tiger &amp; Bunny">Tiger &amp; Bunny: The Beginning</a></i> (2012)</li>
+<li><i><a href="/wiki/Nerawareta_Gakuen" class="mw-redirect" title="Nerawareta Gakuen">Nerawareta Gakuen</a></i> (2012)</li>
+<li><i><a href="/wiki/Kaiketsu_Zorori" title="Kaiketsu Zorori">Zorori's Big Big Big Big Adventure!</a></i> (2012)</li>
+<li><i><a href="/wiki/Gintama:_The_Movie:_The_Final_Chapter:_Be_Forever_Yorozuya" title="Gintama: The Movie: The Final Chapter: Be Forever Yorozuya">Gintama: The Movie: The Final Chapter: Be Forever Yorozuya</a></i> (2013)</li>
+<li><i><a href="/wiki/Short_Peace" title="Short Peace">Short Peace</a></i> (2013)</li>
+<li><i><a href="/wiki/Kaiketsu_Zorori" title="Kaiketsu Zorori">Kaiketsu Zorori: Protect It! The Dinosaur Egg</a></i> (2013)</li>
+<li><i><a href="/wiki/Tiger_%26_Bunny" title="Tiger &amp; Bunny">Tiger &amp; Bunny: The Rising</a></i> (2014)</li>
+<li><i><a href="/wiki/Aikatsu!" title="Aikatsu!">Aikatsu! The Movie</a></i> (2014)</li>
+<li><i><a href="/wiki/Love_Live!_The_School_Idol_Movie" title="Love Live! The School Idol Movie">Love Live! The School Idol Movie</a></i> (2015)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Thunderbolt" title="Mobile Suit Gundam Thunderbolt">Mobile Suit Gundam Thunderbolt: December Sky</a></i> (2016)</li>
+<li><i><a href="/wiki/Accel_World:_Infinite_Burst" title="Accel World: Infinite Burst">Accel World: Infinite Burst</a></i> (2016)</li>
+<li><i><a href="/wiki/Zegapain" title="Zegapain">Zegapain Adaptation</a></i> (2016)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Lelouch of the Rebellion</a></i> (2017–2018)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Thunderbolt" title="Mobile Suit Gundam Thunderbolt">Mobile Suit Gundam Thunderbolt: Bandit Flower</a></i> (2017)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Twilight_AXIS" title="Mobile Suit Gundam: Twilight AXIS">Mobile Suit Gundam: Twilight AXIS Red Trace</a></i> (2017)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Narrative" title="Mobile Suit Gundam Narrative">Mobile Suit Gundam Narrative</a></i> (2018)</li>
+<li><i><a href="/wiki/Love_Live!_Sunshine!!" title="Love Live! Sunshine!!">Love Live! Sunshine!! The School Idol Movie Over the Rainbow</a></i> (2019)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter the Movie: Shinjuku Private Eyes</a></i> (2019)</li>
+<li><i><a href="/wiki/Code_Geass:_Lelouch_of_the_Re;surrection" title="Code Geass: Lelouch of the Re;surrection">Code Geass: Lelouch of the Re;surrection</a></i> (2019)</li>
+<li><i><a href="/wiki/Gundam_Reconguista_in_G" title="Gundam Reconguista in G">Gundam Reconguista in G: Ike! Core Fighter</a></i> (2019)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Hathaway%27s_Flash" title="Mobile Suit Gundam: Hathaway&#39;s Flash">Mobile Suit Gundam: Hathaway's Flash</a></i> (2020)</li>
+<li><i><a href="/w/index.php?title=Orbital_Era&amp;action=edit&amp;redlink=1" class="new" title="Orbital Era (page does not exist)">Orbital Era</a></i> (TBA)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">OVAs/ONAs</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i>Shiroi Kiba White Fang Monogatari</i> (1982)</li>
+<li><i><a href="/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam" title="Ginga Hyōryū Vifam">VIFAM: News from Kachua</a></i> (1984)</li>
+<li><i><a href="/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam" title="Ginga Hyōryū Vifam">VIFAM: The Gathered 13</a></i> (1984)</li>
+<li><i><a href="/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam" title="Ginga Hyōryū Vifam">VIFAM: The Missing 12</a></i> (1985)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: The Last Red Shoulder</a></i> (1985)</li>
+<li><i><a href="/wiki/Ginga_Hy%C5%8Dry%C5%AB_Vifam" title="Ginga Hyōryū Vifam">VIFAM: Kate's Memory</a></i> (1985)</li>
+<li><i><a href="/wiki/Dirty_Pair" title="Dirty Pair">Dirty Pair: Affair of Nolandia</a></i> (1985)</li>
+<li><i><a href="/wiki/Panzer_World_Galient" title="Panzer World Galient">GALIENT: Chapter of Ground</a></i> (1986)</li>
+<li><i><a href="/wiki/Panzer_World_Galient" title="Panzer World Galient">GALIENT: Chapter of Sky</a></i> (1986)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: Big Battle</a></i> (1986)</li>
+<li><i><a href="/wiki/Panzer_World_Galient" title="Panzer World Galient">GALIENT: Crest of Iron</a></i> (1986)</li>
+<li><i><a href="/wiki/Blue_Comet_SPT_Layzner" title="Blue Comet SPT Layzner">LAYZNER: Eiji 1996</a></i> (1986)</li>
+<li><i><a href="/wiki/Blue_Comet_SPT_Layzner" title="Blue Comet SPT Layzner">LAYZNER: Le Caine 1999</a></i> (1986)</li>
+<li><i><a href="/wiki/Blue_Comet_SPT_Layzner" title="Blue Comet SPT Layzner">LAYZNER: Engraved 2000</a></i> (1986)</li>
+<li><i><a href="/wiki/Heavy_Metal_L-Gaim" title="Heavy Metal L-Gaim">L-GAIM: Pentagona Window + Lady Gablae</a></i> (1986)</li>
+<li><i><a href="/wiki/Heavy_Metal_L-Gaim" title="Heavy Metal L-Gaim">L-GAIM: Farewell My Lovely + Pentagona Dolls</a></i> (1987)</li>
+<li><i><a href="/wiki/Dirty_Pair" title="Dirty Pair">Dirty Pair: With Love from the Lovely Angels</a></i> (1987–1988)</li>
+<li><i><a href="/wiki/Fang_of_the_Sun_Dougram" title="Fang of the Sun Dougram">Dougram vs. Round-Facer</a></i> (1987)</li>
+<li><i><a href="/wiki/Heavy_Metal_L-Gaim" title="Heavy Metal L-Gaim">L-GAIM: Fullmetal Soldier</a></i> (1987)</li>
+<li><i>Dead Heat</i> (1987)</li>
+<li><i><a href="/wiki/Dirty_Pair" title="Dirty Pair">Dirty Pair 2</a></i> (1987–1988)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: Roots of Ambition</a></i> (1988)</li>
+<li><i><a href="/wiki/Aura_Battler_Dunbine" title="Aura Battler Dunbine">New Story of Aura Battler Dunbine</a></i> (1988)</li>
+<li><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">Mobile Suit SD Gundam</a></i> (1988–1990)</li>
+<li><i><a href="/wiki/Starship_Troopers_(OVA)" title="Starship Troopers (OVA)">Starship Troopers</a></i> (1988)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">Armor Hunter Mellowlink</a></i> (1988–1989)</li>
+<li><i><a href="/wiki/Crusher_Joe" title="Crusher Joe">Crusher Joe: The Ice Prison</a></i> (1989)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_0080:_War_in_the_Pocket" title="Mobile Suit Gundam 0080: War in the Pocket">Mobile Suit Gundam 0080: War in the Pocket</a></i> (1989)</li>
+<li><i><a href="/wiki/Ronin_Warriors" title="Ronin Warriors">Ronin Warriors Gaiden</a></i> (1989)</li>
+<li><i><a href="/wiki/Crusher_Joe" title="Crusher Joe">Crusher Joe: The Ultimate Weapon: Ash</a></i> (1989)</li>
+<li><i><a href="/wiki/Mashin_Hero_Wataru" title="Mashin Hero Wataru">Wataru Majinzan</a></i> (1989)</li>
+<li><i><a href="/wiki/Ronin_Warriors" title="Ronin Warriors">Ronin Warriors: Legend of the Inferno Armor</a></i> (1989–1990)</li>
+<li><i><a href="/wiki/Dirty_Pair" title="Dirty Pair">Dirty Pair: Flight 005 Conspiracy</a></i> (1990)</li>
+<li><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">SD Gundam Gaiden</a></i> (1990–1991)</li>
+<li><i><a href="/wiki/Obatarian" title="Obatarian">Obatarian</a></i> (1990)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter: Bay City Wars</a></i> (1990)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter: Million Dollar Conspiracy</a></i> (1990)</li>
+<li><i><a href="/wiki/Mad%C3%B6_King_Granz%C3%B6rt" title="Madö King Granzört">GRANZORT: The Final Magical Battle</a></i> (1990)</li>
+<li><i><a href="/wiki/Mad%C3%B6_King_Granz%C3%B6rt" title="Madö King Granzört">GRANZORT: Non-Stop Rabi</a></i> (1990)</li>
+<li><i><a href="/wiki/Patlabor:_The_New_Files" title="Patlabor: The New Files">Patlabor: The New Files</a></i> (1990–1992)</li>
+<li><i><a href="/wiki/Mobile_Suit_SD_Gundam" title="Mobile Suit SD Gundam">Mobile Suit SD Gundam Scramble</a></i> (1991)</li>
+<li><i><a href="/wiki/Ronin_Warriors" title="Ronin Warriors">Ronin Warriors MESSAGE</a></i> (1991)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_0083:_Stardust_Memory" title="Mobile Suit Gundam 0083: Stardust Memory">Mobile Suit Gundam 0083: Stardust Memory</a></i> (1991–1992)</li>
+<li><i><a href="/wiki/Mad%C3%B6_King_Granz%C3%B6rt" title="Madö King Granzört">GRANZORT: The Mado Stone</a></i> (1992)</li>
+<li><i><a href="/wiki/Matchless_Raijin-Oh" title="Matchless Raijin-Oh">Raijin-Oh FINAL</a></i> (1992–1993)</li>
+<li><i><a href="/wiki/Future_GPX_Cyber_Formula" title="Future GPX Cyber Formula">Future GPX Cyber Formula 11</a></i> (1992–1993)</li>
+<li><i><a href="/wiki/Mashin_Hero_Wataru" title="Mashin Hero Wataru">Mashin Hero Wataru: The Endless Story</a></i> (1993–1994)</li>
+<li><i><a href="/wiki/Dirty_Pair_Flash" title="Dirty Pair Flash">Dirty Pair Flash</a></i> (1994–1996)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: Shining Heresy</a></i> (1994)</li>
+<li><i><a href="/wiki/Future_GPX_Cyber_Formula" title="Future GPX Cyber Formula">Future GPX Cyber Formula ZERO</a></i> (1994–1995)</li>
+<li><i><a href="/wiki/Ha%C5%8D_Taikei_Ry%C5%AB_Knight" title="Haō Taikei Ryū Knight">Ryū Knight: Adeu's Legend</a></i> (1994–1995)</li>
+<li><i><a href="/wiki/Shipp%C5%AB!_Iron_Leaguer" title="Shippū! Iron Leaguer">Iron Leaguer: Under of The Banner of Silver Light</a></i> (1994–1995)</li>
+<li><i><a href="/wiki/Ha%C5%8D_Taikei_Ry%C5%AB_Knight" title="Haō Taikei Ryū Knight">Ryū Knight: Adeu's Legend II</a></i> (1995–1996)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter: The Secret Service</a></i> (1996)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team" title="Mobile Suit Gundam: The 08th MS Team">Mobile Suit Gundam: The 08th MS Team</a></i> (1996–1999)</li>
+<li><i><a href="/wiki/The_Silent_Service" title="The Silent Service">The Silent Service</a></i> (1996–1998)</li>
+<li><i><a href="/wiki/Future_GPX_Cyber_Formula" title="Future GPX Cyber Formula">Future GPX Cyber Formula EARLY DAYS RENEWAL</a></i> (1996)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Wing" title="Mobile Suit Gundam Wing">Gundam Wing: Operation Meteor</a></i> (1996)</li>
+<li><i><a href="/wiki/Ha%C5%8D_Taikei_Ry%C5%AB_Knight" title="Haō Taikei Ryū Knight">Ryū Knight: Adeu's Legend Final - Onsen Dungeon no Kettō</a></i> (1996)</li>
+<li><i><a href="/wiki/Future_GPX_Cyber_Formula" title="Future GPX Cyber Formula">Future GPX Cyber Formula SAGA</a></i> (1996–1997)</li>
+<li><i><a href="/wiki/Gundam_Wing:_Endless_Waltz" title="Gundam Wing: Endless Waltz">Gundam Wing: Endless Waltz</a></i> (1997)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter: Goodbye My Sweetheart</a></i> (1997)</li>
+<li><i><a href="/wiki/Brave_Command_Dagwon" title="Brave Command Dagwon">DAGWON: The Boy with Crystal Eyes</a></i> (1997)</li>
+<li><i>Gundam: Mission to the Rise</i> (1998)</li>
+<li><i><a href="/wiki/Dinozaurs" title="Dinozaurs">Dinozone</a></i> (1998–2000)</li>
+<li><i><a href="/wiki/Future_GPX_Cyber_Formula_SIN" title="Future GPX Cyber Formula SIN">Future GPX Cyber Formula SIN</a></i> (1998–2000)</li>
+<li><i><a href="/wiki/Z-Mind" title="Z-Mind">Z-Mind</a></i> (1999)</li>
+<li><i><a href="/wiki/City_Hunter" title="City Hunter">City Hunter: Death of the Vicious Criminal Ryo Saeba</a></i> (1999)</li>
+<li><i><a href="/wiki/The_King_of_Braves_GaoGaiGar_Final" title="The King of Braves GaoGaiGar Final">The King of Braves GaoGaiGar Final</a></i> (2000–2003)</li>
+<li><i><a href="/wiki/Seikai_no_Dansh%C5%8D" title="Seikai no Danshō">Passage of the Stars - Birth</a></i> (2000)</li>
+<li><i><a href="/wiki/G-Saviour" title="G-Saviour">G-Saviour</a></i> (2000)</li>
+<li><i><a href="/wiki/Zone_of_the_Enders:_2167_Idolo" title="Zone of the Enders: 2167 Idolo">Zone of the Enders: 2167 Idolo</a></i> (2001)</li>
+<li><i>Afro-Dog</i> (2001)</li>
+<li><i><a href="/wiki/Kanzen_Shouri_Daiteioh" title="Kanzen Shouri Daiteioh">Kanzen Shouri Daiteioh</a></i> (2001)</li>
+<li><i><a href="/wiki/G,undam_Evolve" title="Gundam Evolve">Gundam Evolve</a></i> (2001–2007)</li>
+<li><i><a href="/wiki/Argento_Soma" title="Argento Soma">Argento Soma: Alone and by myself</a></i> (2002)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Astray" title="Mobile Suit Gundam SEED Astray">Mobile Suit Gundam SEED Astray</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED" title="Mobile Suit Gundam SEED">Mobile Suit Gundam SEED AFTER PHASE</a></i> (2004)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">Mobile Suit Gundam MS IGLOO: The Hidden One Year War</a></i> (2004)</li>
+<li><i>Hotori: Tada Saiwai wo Koinegau</i> (2005)</li>
+<li><i><a href="/wiki/Banner_of_the_Stars" title="Banner of the Stars">Banner of the Stars III</a></i> (2005)</li>
+<li><i><a href="/wiki/Gin_Tama" title="Gin Tama">Gin Tama</a></i> (2005–2014)</li>
+<li><i><a href="/wiki/The_Wings_of_Rean" title="The Wings of Rean">The Wings of Rean</a></i> (2005–2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_Destiny" title="Mobile Suit Gundam SEED Destiny">Mobile Suit Gundam SEED Destiny: FINAL PLUS</a></i> (2005)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">Mobile Suit Gundam MS IGLOO: Apocalypse 0079</a></i> (2006)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_SEED_C.E._73:_Stargazer" title="Mobile Suit Gundam SEED C.E. 73: Stargazer">Mobile Suit Gundam SEED C.E. 73: Stargazer</a></i> (2006)</li>
+<li><i><a href="/wiki/Cluster_Edge" title="Cluster Edge">Cluster Edge Specials</a></i> (2006)</li>
+<li><i><a href="/wiki/My-Otome_Zwei" title="My-Otome Zwei">My-Otome Zwei</a></i> (2006–2007)</li>
+<li><i><a href="/wiki/Freedom_Project" title="Freedom Project">Freedom Project</a></i> (2006–2008)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms:_Pailsen_Files" title="Armored Trooper Votoms: Pailsen Files">Armored Trooper Votoms: Pailsen Files</a></i> (2007–2008)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Black Rebellion</a></i> (2008)</li>
+<li><i><a href="/wiki/My-Otome_0:_S.ifr" title="My-Otome 0: S.ifr">My-Otome 0: S.ifr</a></i> (2008)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_MS_IGLOO" title="Mobile Suit Gundam MS IGLOO">Mobile Suit Gundam MS IGLOO: The Gravity Front</a></i> (2008–2009)</li>
+<li><i><a href="/wiki/Urusei_Yatsura_(film_series)" title="Urusei Yatsura (film series)">Urusei Yatsura: The Obstacle Course Swim Meet</a></i> (2008)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Zero Requiem</a></i> (2009)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_00" title="Mobile Suit Gundam 00">Mobile Suit Gundam 00 Special Edition</a></i> (2009–2010)</li>
+<li><i><a href="/wiki/Black_God_(manga)" title="Black God (manga)">Black God: Tiger and Wings</a></i> (2009)</li>
+<li><i><a href="/wiki/My-HiME" title="My-HiME">My-HiME: The Black Dance/The Last Supper</a></i> (2010)</li>
+<li><i><a href="/wiki/My-Otome" title="My-Otome">My-Otome: The Holy Maiden's Prayer</a></i> (2010)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: Phantom Chapter</a></i> (2010)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Unicorn" title="Mobile Suit Gundam Unicorn">Mobile Suit Gundam Unicorn</a></i> (2010–2014)</li>
+<li><i><a href="/wiki/Model_Suit_Gunpla_Builders_Beginning_G" title="Model Suit Gunpla Builders Beginning G">Model Suit Gunpla Builders Beginning G</a></i> (2010)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: Case;Irvine</a></i> (2010)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">Votoms Finder</a></i> (2010)</li>
+<li><i><a href="/wiki/Armored_Trooper_Votoms" title="Armored Trooper Votoms">VOTOMS: Alone Again</a></i> (2011)</li>
+<li><i><a href="/wiki/Coicent" title="Coicent">Coicent</a></i> (2011)</li>
+<li><i><a href="/wiki/Five_Numbers!" title="Five Numbers!">Five Numbers!</a></i> (2011)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Nunnally in Wonderland</a></i> (2012)</li>
+<li><i><a href="/wiki/Code_Geass" title="Code Geass">Code Geass: Akito the Exiled</a></i> (2012–2016)</li>
+<li><i><a href="/wiki/Accel_World" title="Accel World">Accel World</a></i> (2012–2013)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_08th_MS_Team" title="Mobile Suit Gundam: The 08th MS Team">Mobile Suit Gundam: The 08th MS Team: Battle in Three Dimensions</a></i> (2013)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_AGE" title="Mobile Suit Gundam AGE">Mobile Suit Gundam AGE: Memory of Eden</a></i> (2013)</li>
+<li><i><a href="/wiki/Love_Live!" title="Love Live!">Love Live!</a></i> (2013)</li>
+<li><i><a href="/wiki/Japan_Animator_Expo" title="Japan Animator Expo">Japan Animator Expo</a></i> (2014)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_Origin" title="Mobile Suit Gundam: The Origin">Mobile Suit Gundam: The Origin</a></i> (2015–2016)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam_Thunderbolt" title="Mobile Suit Gundam Thunderbolt">Mobile Suit Gundam Thunderbolt</a></i> (2015–2017)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters_Try" title="Gundam Build Fighters Try">Gundam Build Fighters Try: Island Wars</a></i> (2016)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_Twilight_AXIS" title="Mobile Suit Gundam: Twilight AXIS">Mobile Suit Gundam: Twilight AXIS</a></i> (2017)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters: Battlogue</a></i> (2017)</li>
+<li><i><a href="/wiki/Gundam_Build_Fighters" title="Gundam Build Fighters">Gundam Build Fighters: GM's Counterattack</a></i> (2017)</li>
+<li><i><a href="/wiki/Mobile_Suit_Gundam:_The_Origin" title="Mobile Suit Gundam: The Origin">Mobile Suit Gundam The Origin: Loum Arc</a></i> (2017–2018)</li>
+<li><i><a href="/wiki/Gundam_Build_Divers" title="Gundam Build Divers">Gundam Build Divers: Prologue</a></i> (2018)</li>
+<li><i><a href="/wiki/Isekai_Izakaya_%22Nobu%22" title="Isekai Izakaya &quot;Nobu&quot;">Isekai Izakaya ~Koto Aitheria no Izakaya Nobu~</a></i> (2018)</li>
+<li><i><a href="/wiki/SD_Gundam_World_Sangoku_Soketsuden" title="SD Gundam World Sangoku Soketsuden">SD Gundam World Sangoku Soketsuden</a></i> (2019–present)</li>
+<li><i><a href="/wiki/Gundam_Build_Divers_Re:Rise" title="Gundam Build Divers Re:Rise">Gundam Build Divers Re:Rise</a></i> (2019–present)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bandai_Namco_Holdings" title="Bandai Namco Holdings">Bandai Namco Holdings</a>
+<ul><li><a href="/wiki/Actas" title="Actas">Actas</a></li>
+<li><a href="/wiki/Bandai" title="Bandai">Bandai</a></li>
+<li><a href="/wiki/Bandai_Namco_Arts" title="Bandai Namco Arts">Bandai Namco Arts</a></li>
+<li><a href="/wiki/Bandai_Namco_Pictures" title="Bandai Namco Pictures">Bandai Namco Pictures</a></li>
+<li><a href="/wiki/Bandai_Visual" title="Bandai Visual">Bandai Visual</a></li>
+<li><a href="/wiki/Xebec_(studio)" title="Xebec (studio)">Xebec</a></li>
+<li><a href="/wiki/Sunrise_Interactive" title="Sunrise Interactive">Sunrise Interactive</a></li></ul></li>
+<li><a href="/wiki/Studio_Deen" title="Studio Deen">Studio Deen</a></li>
+<li><a href="/wiki/Bones_(studio)" title="Bones (studio)">Bones</a></li>
+<li><a href="/wiki/Manglobe" title="Manglobe">Manglobe</a>
+<ul><li><a href="/wiki/Geno_Studio" title="Geno Studio">Geno Studio</a></li></ul></li>
+<li><a href="/wiki/A-1_Pictures" title="A-1 Pictures">A-1 Pictures</a></li>
+<li><a href="/wiki/Bridge_(studio)" title="Bridge (studio)">Bridge</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Sunrise_(company)" title="Category:Sunrise (company)">Category</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1364
+Cached time: 20200618212516
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.760 seconds
+Real time usage: 0.965 seconds
+Preprocessor visited node count: 2933/1000000
+Post‐expand include size: 171826/2097152 bytes
+Template argument size: 2699/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 116781/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.382/10.000 seconds
+Lua memory usage: 18.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  774.117      1 -total
+ 38.82%  300.522      2 Template:Reflist
+ 21.21%  164.203      2 Template:Nihongo
+ 20.94%  162.126     16 Template:Cite_web
+  7.39%   57.223      2 Template:Sister_project
+  7.04%   54.526      1 Template:Infobox_media_franchise
+  6.94%   53.738      2 Template:Side_box
+  6.44%   49.874      1 Template:Commons_category
+  6.16%   47.691      1 Template:Infobox
+  6.10%   47.220      1 Template:ISBN
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50709-0!canonical and timestamp 20200618212515 and revision id 958516607
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gundam&amp;oldid=958516607">https://en.wikipedia.org/w/index.php?title=Gundam&amp;oldid=958516607</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gundam" title="Category:Gundam">Gundam</a></li><li><a href="/wiki/Category:Asteroid_mining_in_fiction" title="Category:Asteroid mining in fiction">Asteroid mining in fiction</a></li><li><a href="/wiki/Category:Bandai_brands" title="Category:Bandai brands">Bandai brands</a></li><li><a href="/wiki/Category:Bandai_Namco_franchises" title="Category:Bandai Namco franchises">Bandai Namco franchises</a></li><li><a href="/wiki/Category:Bandai_Visual" title="Category:Bandai Visual">Bandai Visual</a></li><li><a href="/wiki/Category:Fictional_universes" title="Category:Fictional universes">Fictional universes</a></li><li><a href="/wiki/Category:Mass_media_franchises" title="Category:Mass media franchises">Mass media franchises</a></li><li><a href="/wiki/Category:Military_in_anime_and_manga" title="Category:Military in anime and manga">Military in anime and manga</a></li><li><a href="/wiki/Category:Military_in_fiction" title="Category:Military in fiction">Military in fiction</a></li><li><a href="/wiki/Category:Military_science_fiction" title="Category:Military science fiction">Military science fiction</a></li><li><a href="/wiki/Category:Sunrise_(company)" title="Category:Sunrise (company)">Sunrise (company)</a></li><li><a href="/wiki/Category:Space_opera_anime_and_manga" title="Category:Space opera anime and manga">Space opera anime and manga</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:CS1_uses_Japanese-language_script_(ja)" title="Category:CS1 uses Japanese-language script (ja)">CS1 uses Japanese-language script (ja)</a></li><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li><li><a href="/wiki/Category:Articles_with_Japanese-language_sources_(ja)" title="Category:Articles with Japanese-language sources (ja)">Articles with Japanese-language sources (ja)</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gundam" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gundam" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Gundam" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Gundam" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="bod,y ,vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Gundam">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Gundam&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Gundam&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gundam" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gundam" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gundam&amp;oldid=958516607" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gundam&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q732120" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gundam&amp;id=958516607&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D9%86%D8%AF%D8%A7%D9%85" title="كاندام – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Gundam" title="Gundam – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gundam" title="Gundam – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Gundam" title="Gundam – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%86%D8%AF%D8%A7%D9%85" title="گاندام – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr badge-Q17437796 badge-featuredarticle" title="featured article badge"><a href="https://fr.wikipedia.org/wiki/Gundam" title="Gundam – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B1%B4%EB%8B%B4_%EC%8B%9C%EB%A6%AC%EC%A6%88" title="건담 시리즈 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Gundam" title="Gundam – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Gundam" title="Gundam – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%92%D7%A0%D7%93%D7%90%D7%9D" title="גנדאם – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Gundam" title="Gundam – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Gundam" title="Gundam – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Gundam" title="Gundam – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gundam" title="Gundam – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E4%B8%80%E8%A6%A7" title="ガンダムシリーズ一覧 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Gundam" title="Gundam – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Gundam_(seria)" title="Gundam (seria) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Gundam" title="Gundam – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Gundam" title="Gundam – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Gundam" title="Gundam – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Gundam" title="Gundam – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Gundam" title="Gundam – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B1%E0%B9%89%E0%B8%A1" title="กันดั้ม – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Gundam" title="Gundam – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Gundam" title="Gundam – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Gundam" title="Gundam – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E9%AB%98%E8%BE%BE%E7%B3%BB%E5%88%97" title="高达系列 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%AB%98%E9%81%94%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81" title="高達系列作品 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/GUNDAM%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81" title="GUNDAM系列作品 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q732120#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Gundam" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Gundam" hreflang="en">Wikiquote</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gundam&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gundam&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 24 May 2020, at 07:22<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-p,laces-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gundam&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.760","walltime":"0.965","ppvisitednodes":{"value":2933,"limit":1000000},"postexpandincludesize":{"value":171826,"limit":2097152},"templateargumentsize":{"value":2699,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":116781,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  774.117      1 -total"," 38.82%  300.522      2 Template:Reflist"," 21.21%  164.203      2 Template:Nihongo"," 20.94%  162.126     16 Template:Cite_web","  7.39%   57.223      2 Template:Sister_project","  7.04%   54.526      1 Template:Infobox_media_franchise","  6.94%   53.738      2 Template:Side_box","  6.44%   49.874      1 Template:Commons_category","  6.16%   47.691      1 Template:Infobox","  6.10%   47.220      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.382","limit":"10.000"},"limitreport-memusage":{"value":19517291,"limit":52428800}},"cachereport":{"origin":"mw1364","timestamp":"20200618212516","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Gundam","url":"https:\/\/en.wikipedia.org\/wiki\/Gundam","sameAs":"http:\/\/www.wikidata.org\/entity\/Q732120","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q732120","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-04-28T10:37:27Z","dateModified":"2020-05-24T07:22:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/99\/Gundam.jpg","headline":"science fiction media franchise"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":133,"wgHostname":"mw1354"});});</script></body></html>
