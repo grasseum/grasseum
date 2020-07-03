@@ -1,4 +1,4 @@
- const cli = require("grasseum_cli");
+ const {cli} = require("grasseum_cli");
 
 
 const localCWD =process.cwd();

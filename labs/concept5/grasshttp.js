@@ -1,6 +1,6 @@
 
 ///module.exports=function(grassconf){ 
- exports.module=function(grassconf){   
+ exports.route=function(grassconf){   
 
   
 
