@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "grass_composer": "^1.0.2",
-    "grass_concat": "^1.0.1",    
+    "grass_concat": "^1.0.2",    
     "grasseum_core": "^1.0.2",
     "grasseum_stream": "^1.0.1",
     "grasseum_http": "^1.0.0",
