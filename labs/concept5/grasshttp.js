@@ -1,19 +1,16 @@
 
-///module.exports=function(grassconf){ 
+
  exports.route=function(grassconf){   
 
   
 
   grassconf.load("test1",function(test){ 
-    test.config({
-      "url":"gundam"
-    })
-
-    })
+    return grassconf.src(["src/*.js"])
+    .pipe(grassconf.dest("dest" ))
 
     
-    } 
-
+    }); 
+  }
 exports.execute=function(){   
 
 
@@ -21,10 +18,10 @@ exports.execute=function(){
 }     
   
 
-exports.config=function(){   
+exports.setting=function(lib){   
 
 
-  return {
-    
+  return  {
+    isLogFolderGenerate:true
   }
-}     
+} 

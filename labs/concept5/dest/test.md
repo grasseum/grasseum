@@ -1,23 +1,3 @@
-alert("Gundam 11")
-
-
-
-
-alert("Test 11")
-===1111====
-alert("Gundam 33")
-
-
-
-alert("Test 33")
-===333====
-alert("Gundam22")
-
-
-
-
-alert("Test22")
-====2222===@yaho!  
 body[pf-active="true"]{
 
 	background-color:#eee
@@ -38,23 +18,3 @@ nav[pf-active="true"]{background-color:#4a9ec7; box-shadow: 0px 5px 5px #888888;
 .pf-js-body-append-body-content{border: 1px  solid #ccc; }
 .pf-js-pop-label{background-color:#fff;font-size: 32px;margin:3px;padding: 3px;border:3px solid #00f;}
 
-alert("Gundam 11")
-
-
-
-
-alert("Test 11")
-===1111====@
-alert("Gundam22")
-
-
-
-
-alert("Test22")
-====2222==== @&&&3&&&=!!
-alert("Gundam 33")
-
-
-
-alert("Test 33")
-===333====@
