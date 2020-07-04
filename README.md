@@ -43,6 +43,7 @@ exports.execute=function( lib ){
 This can found at folder `labs/concept1` 
 
 ## Available command you can use at your terminal
+The commands must in this format  `grasseum <Command type>` 
 |Command type | Description|
 |------------- | ------------- |
 |script | Running stream at `grassfile.js`  |
