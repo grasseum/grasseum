@@ -1,3 +1,0 @@
-# Grasseum
-
-## Purpose
