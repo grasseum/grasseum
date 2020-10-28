@@ -50,3 +50,9 @@ The commands must in this format  `grasseum <Command type>`
 |http | Running http at `grasshttp.js` |
 |template | Creating a template either `grassfile.js` or `grasshttp.js`|
 |help | See available command for grasseum |
+
+
+## If you are windows and have a hard time running the script, run this following command
+```
+Set-ExecutionPolicy RemoteSigned
+```
