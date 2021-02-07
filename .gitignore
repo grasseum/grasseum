@@ -3,4 +3,6 @@ node_modules/
 library_backup/
 node_modules_backup/
 node_modules_backup2/
+.DS_Store
 package_sample.json
+package-lock.json

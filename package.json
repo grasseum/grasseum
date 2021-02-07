@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "grass_composer": "^1.0.2",
-    "grass_concat": "^1.0.2",    
+    "grass_concat": "^1.0.2",
     "grasseum_core": "^1.0.2",
     "grasseum_stream": "^1.0.1",
     "grasseum_http": "^1.0.0",
@@ -23,19 +23,30 @@
     "comptsjs": "^1.0.2",
     "grasseum_folder_generator": "^1.0.1",
     "grasseum_files": "^1.0.1",
-    "grasseum_glob": "^1.0.1"
+    "grasseum_glob": "^1.0.1",
+    "structkit": "^1.0.1",
+    "mocha": "^5.2.0",
+    "jslint": "^0.12.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "esm": "^3.2.25"
   },
-   "engines" : { "node" : ">=12.0" } ,
-  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.18.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "es_linter": "eslint library/*.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/grasseum/grasseum.git"
   },
   "keywords": [
-    "stream","automation"
+    "stream",
+    "automation"
   ],
   "author": "Pein Freccs",
   "license": "MIT",
