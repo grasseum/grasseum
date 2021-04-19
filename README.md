@@ -1,4 +1,5 @@
 # Grasseum
+[![NPM version][npm-image]][npm-url] 
 
 ## What is grasseum?
 - **Automation** - grasseum is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
@@ -40,7 +41,6 @@ exports.execute=function( lib ){
 }       
   
 ```
-This can found at folder `labs/concept1` 
 
 ## Available command you can use at your terminal
 The commands must in this format  `grasseum <Command type>` 
@@ -56,3 +56,5 @@ The commands must in this format  `grasseum <Command type>`
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
+[npm-url]: https://www.npmjs.com/package/grasseum
+[npm-image]: https://img.shields.io/badge/grasseum-1.2.1-brightgreen
