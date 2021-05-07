@@ -3,6 +3,6 @@ const localCWD = process.cwd();
 const localARGV = process.argv.splice(2);
 
 cli({
-	"argv": localARGV,
-	"cwd": localCWD
+    "argv": localARGV,
+    "cwd": localCWD
 });

@@ -20,25 +20,26 @@
     "grasseum_resources": "^1.0.0",
     "grasseum_cli": "^1.0.1",
     "grasseum_directory": "^1.0.2",
-    "comptsjs": "^1.0.2",
     "grasseum_folder_generator": "^1.0.1",
     "grasseum_files": "^1.0.1",
     "grasseum_glob": "^1.0.1",
-    "structkit": "^1.0.1",
-    "mocha": "^5.2.0",
-    "jslint": "^0.12.1",
-    "eslint-config-strongloop": "^2.1.0",
-    "eslint-plugin-import": "^2.22.1",
-    "esm": "^3.2.25"
+    "grasseum_watchprocess":"^1.0.1",
+    "structkit": "^1.3.1",
+    "fornetserve": "^0.0.1"
   },
   "engines": {
     "node": ">=12.0"
   },
   "devDependencies": {
+    "mocha": "^5.2.0",
+    "jslint": "^0.12.1",
+    "eslint-config-strongloop": "^2.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "esm": "^3.2.25",
     "eslint": "^7.18.0"
   },
   "scripts": {
-    "es_linter": "eslint library/*.js"
+    "es_linter": "eslint library/*.js labs/**/*.js --fix"
   },
   "repository": {
     "type": "git",
